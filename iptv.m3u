@@ -1,81 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Premiere 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 2 4K FHDR
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/103482.ts
-#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72237.ts
-#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72238.ts
-#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72239.ts
-#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72240.ts
-#EXTINF:-1 tvg-name="Premiere 3 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 3 4K FHDR
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/103481.ts
-#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72241.ts
-#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72242.ts
-#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72243.ts
-#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72244.ts
-#EXTINF:-1 tvg-name="Premiere 4 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 4 4K FHDR
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/103480.ts
-#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72245.ts
-#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72246.ts
-#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72247.ts
-#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72248.ts
-#EXTINF:-1 tvg-name="Premiere 5 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 5 4K FHDR
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/103479.ts
-#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72249.ts
-#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72250.ts
-#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72251.ts
-#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72252.ts
-#EXTINF:-1 tvg-name="Premiere 6 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 6 4K FHDR
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/103478.ts
-#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72253.ts
-#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72254.ts
-#EXTINF:-1 tvg-name="Premiere 6 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72255.ts
-#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72256.ts
-#EXTINF:-1 tvg-name="Premiere 7 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 7 4K FHDR
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/103477.ts
-#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72257.ts
-#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72258.ts
-#EXTINF:-1 tvg-name="Premiere 7 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72259.ts
-#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72260.ts
-#EXTINF:-1 tvg-name="Premiere 8 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 8 4K FHDR
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/180162.ts
-#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/180158.ts
-#EXTINF:-1 tvg-name="Premiere 8 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD [H265]
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/180161.ts
-#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/180159.ts
-#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/180160.ts
-#EXTINF:-1 tvg-name="Premiere Clubes 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72264.ts
-#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72262.ts
-#EXTINF:-1 tvg-name="Premiere Clubes FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72263.ts
-#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72265.ts
-#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/72266.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR: PREMIERE 3 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 3 | HD
+http://375055111841323723.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/323723.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR: PREMIERE 5 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 5 | HD
+http://375055111841323728.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/323728.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR: PREMIERE 7 | FHD" tvg-logo="http://mdprime.live:8080/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="Brazil",BR: PREMIERE 7 | FHD
+http://375055111841323732.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/323732.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES | SD" tvg-logo="http://mdprime.live:8080/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="Brazil",BR: PREMIERE CLUBES | SD
+http://375055111841332277.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/332277.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR: PREMIERE 2 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 2 | HD
+http://375055111841333313.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/333313.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE CLUBES | HD
+http://375055111841759525.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/759525.ts
