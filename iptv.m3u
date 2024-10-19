@@ -1,81 +1,570 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR: PREMIERE 3 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 3 | HD
-http://375055111841323723.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/323723.ts
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR: PREMIERE 5 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 5 | HD
-http://375055111841323728.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/323728.ts
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR: PREMIERE 7 | FHD" tvg-logo="http://mdprime.live:8080/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="Brazil",BR: PREMIERE 7 | FHD
-http://375055111841323732.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/323732.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES | SD" tvg-logo="http://mdprime.live:8080/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="Brazil",BR: PREMIERE CLUBES | SD
-http://375055111841332277.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/332277.ts
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR: PREMIERE 2 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 2 | HD
-http://375055111841333313.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/333313.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE CLUBES | HD
-http://375055111841759525.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/759525.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR: MEGAPIX | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/megapix.jpg" group-title="Brazil",BR: MEGAPIX | HD
-http://375055111841327688.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/327688.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR: MEGA PIX | SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/megapix.jpg" group-title="Brazil",BR: MEGA PIX | SD
-http://375055111841332774.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/332774.ts
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR: TELECINE ACTION | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/telecine-action.jpg" group-title="Brazil",BR: TELECINE ACTION | HD
-http://375055111841333252.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/333252.ts
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR: TELECINE PIPOCA | SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/telecine-pipoca.jpg" group-title="Brazil",BR: TELECINE PIPOCA | SD
-http://375055111841328914.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/328914.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="BR: SPACE | SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/space.jpg" group-title="Brazil",BR: SPACE | SD
-http://375055111841329289.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/329289.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/space.jpg" group-title="Brazil",BR: SPACE | HD
-http://375055111841860698.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/860698.ts
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BR: A&E | FHD" tvg-logo="http://conectweb.site/capas/ae-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP | SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/record.jpg" group-title="Brazil",BR: RECORD SP | SD
-http://375055111841332110.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/332110.ts
-a-and-e-logo.jpg" group-title="Brazil",BR: A&E | FHD
-http://375055111841329267.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/329267.ts
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BR: A&E SD" tvg-logo="http://conectweb.site/capas/ae-a-and-e-logo.jpg" group-title="Brazil",BR: A&E SD
-http://375055111841852486.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/852486.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR: BAND SP | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band.jpg" group-title="Brazil",BR: BAND SP | HD
-http://375055111841332742.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/332742.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="BR: BAND | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band.jpg" group-title="Brazil",BR: BAND | HD
-http://375055111841333105.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/333105.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SP | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band.jpg" group-title="Brazil",BR: BAND SP | HD
-http://375055111841917571.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/917571.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD" tvg-logo="" group-title="Brazil",BR: RECORD SP HD
-http://375055111841920749.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/920749.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR: SBT SP | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/sbt.jpg" group-title="Brazil",BR: SBT SP | HD
-http://375055111841333236.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/333236.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR: SBT SP HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/sbt.jpg" group-title="Brazil",BR: SBT SP HEVC
-http://375055111841827588.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/827588.ts
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="BR: GLOBO SP HD" tvg-logo="" group-title="Brazil",BR: GLOBO SP HD
-http://375055111841862569.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/862569.ts
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="BR: GLOBO SP FHD" tvg-logo="" group-title="Brazil",BR: GLOBO SP FHD
-http://375055111841932057.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/932057.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP | SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/globo-sp.jpg" group-title="Brazil",BR: GLOBO SP | SD
-http://375055111841936218.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/936218.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR: ESPN2 HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/espn.jpg" group-title="Brazil",BR: ESPN2 HD
-http://375055111841328882.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/328882.ts
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR: ESPN3 FHD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/espn-2.jpg" group-title="Brazil",BR: ESPN3 FHD
-http://375055111841330790.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/330790.ts
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR: ESPN4 SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/fox-sports.jpg" group-title="Brazil",BR: ESPN4 SD
-http://375055111841332102.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/332102.ts
-#EXTINF:-1 tvg-id="ESPNExtra.br" tvg-name="BR: ESPN EXTRA HD" tvg-logo="https://acontecendoaqui.com.br/sites/default/files/styles/full_content/public/espn-extra.jpg?itok=pdKxHaUT" group-title="Brazil",BR: ESPN EXTRA HD
-http://375055111841333147.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/333147.ts
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR: ESPN HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/espn-brasil.jpg" group-title="Brazil",BR: ESPN HD
-http://375055111841333152.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/333152.ts
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR: ESPN SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/espn-brasil.jpg" group-title="Brazil",BR: ESPN SD
-http://375055111841823458.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/823458.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR: ESPN 2 HD" tvg-logo="" group-title="Brazil",BR: ESPN 2 HD
-http://375055111841827462.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/827462.ts
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR: ESPN 3 HD" tvg-logo="" group-title="Brazil",BR: ESPN 3 HD
-http://375055111841827463.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/827463.ts
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR: ESPN 3 SD" tvg-logo="" group-title="Brazil",BR: ESPN 3 SD
-http://375055111841827464.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/827464.ts
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR: ESPN 4 HD" tvg-logo="" group-title="Brazil",BR: ESPN 4 HD
-http://375055111841827465.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/827465.ts
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="BR: ESPN BRASIL HEVC" tvg-logo="" group-title="Brazil",BR: ESPN BRASIL HEVC
-http://375055111841827466.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/827466.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR: CINEMAX | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/cinemax.jpg" group-title="Brazil",BR: CINEMAX | HD
-http://375055111841323434.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/323434.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR: CINEMAX SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/cinemax.jpg" group-title="Brazil",BR: CINEMAX SD
-http://375055111841827443.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/827443.ts
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="BR: TCM SD" tvg-logo="" group-title="Brazil",BR: TCM SD
-http://375055111841863761.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/863761.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR: SPORTV FHD" tvg-logo="" group-title="Brazil",BR: SPORTV FHD
-http://375055111841871297.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/871297.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR: SPORTV HD" tvg-logo="" group-title="Brazil",BR: SPORTV HD
-http://375055111841883730.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/883730.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn.png",ESPN FHD
+http://m.70.ms:80/51992993566/qwe2131/6958
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn.png",ESPN FHD²
+http://m.70.ms:80/51992993566/qwe2131/16856
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn.png",ESPN  HD
+http://m.70.ms:80/51992993566/qwe2131/6589
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn.png",ESPN HD²
+http://m.70.ms:80/51992993566/qwe2131/6887
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn.png",ESPN SD
+http://m.70.ms:80/51992993566/qwe2131/6588
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn.png",ESPN SD²
+http://m.70.ms:80/51992993566/qwe2131/10823
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn2.png",ESPN 2 FHD
+http://m.70.ms:80/51992993566/qwe2131/6932
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn2.png",ESPN 2 FHD²
+http://m.70.ms:80/51992993566/qwe2131/26161
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn2.png",ESPN 2 HD
+http://m.70.ms:80/51992993566/qwe2131/6587
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn2.png",ESPN 2 HD²
+http://m.70.ms:80/51992993566/qwe2131/6591
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn2.png",ESPN 2 SD
+http://m.70.ms:80/51992993566/qwe2131/6590
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn2.png",ESPN 2 SD²
+http://m.70.ms:80/51992993566/qwe2131/10826
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 3 FHD
+http://m.70.ms:80/51992993566/qwe2131/26155
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 3 FHD²
+http://m.70.ms:80/51992993566/qwe2131/26154
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 3 HD
+http://m.70.ms:80/51992993566/qwe2131/10824
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 3 HD²
+http://m.70.ms:80/51992993566/qwe2131/26156
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 3 SD
+http://m.70.ms:80/51992993566/qwe2131/10825
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 3 SD²
+http://m.70.ms:80/51992993566/qwe2131/100463
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 4 FHD
+http://m.70.ms:80/51992993566/qwe2131/10364
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 4 FHD²
+http://m.70.ms:80/51992993566/qwe2131/16852
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 4 HD
+http://m.70.ms:80/51992993566/qwe2131/6577
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 4 HD²
+http://m.70.ms:80/51992993566/qwe2131/10809
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 4 SD
+http://m.70.ms:80/51992993566/qwe2131/6576
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 4 SD²
+http://m.70.ms:80/51992993566/qwe2131/10810
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 5 FHD
+http://m.70.ms:80/51992993566/qwe2131/10363
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 5 FHD²
+http://m.70.ms:80/51992993566/qwe2131/16851
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 5 HD
+http://m.70.ms:80/51992993566/qwe2131/6575
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 5 HD²
+http://m.70.ms:80/51992993566/qwe2131/10807
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 5 SD
+http://m.70.ms:80/51992993566/qwe2131/6574
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 5 SD²
+http://m.70.ms:80/51992993566/qwe2131/10808
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 6 FHD
+http://m.70.ms:80/51992993566/qwe2131/17077
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 6 FHD²
+http://m.70.ms:80/51992993566/qwe2131/21123
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 6 HD
+http://m.70.ms:80/51992993566/qwe2131/26159
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 6 HD²
+http://m.70.ms:80/51992993566/qwe2131/26158
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 6 SD
+http://m.70.ms:80/51992993566/qwe2131/6592
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://fivetv.xyz/logos/espn.png",ESPN 6 SD²
+http://m.70.ms:80/51992993566/qwe2131/26157
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://fivetv.xyz/logos/sportv2.png",Sportv 2 H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34837
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://fivetv.xyz/logos/sportv3.png",Sportv 3 H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34836
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/Ug",Sportv H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34835
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv.png",SporTV FHD
+http://m.70.ms:80/51992993566/qwe2131/6928
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv.png",SporTV FHD²
+http://m.70.ms:80/51992993566/qwe2131/16821
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv.png",SporTV HD
+http://m.70.ms:80/51992993566/qwe2131/6482
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv.png",SporTV HD²
+http://m.70.ms:80/51992993566/qwe2131/6882
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv.png",SporTV SD
+http://m.70.ms:80/51992993566/qwe2131/6481
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv.png",SporTV SD²
+http://m.70.ms:80/51992993566/qwe2131/10693
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv2.png",SporTV 2 FHD
+http://m.70.ms:80/51992993566/qwe2131/6942
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv2.png",SporTV 2 FHD²
+http://m.70.ms:80/51992993566/qwe2131/16819
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv2.png",SporTV 2 HD
+http://m.70.ms:80/51992993566/qwe2131/6480
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv2.png",SporTV 2 HD²
+http://m.70.ms:80/51992993566/qwe2131/6872
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv2.png",SporTV 2 SD
+http://m.70.ms:80/51992993566/qwe2131/6479
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv2.png",SporTV 2 SD²
+http://m.70.ms:80/51992993566/qwe2131/10692
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv3.png",SporTV 3 FHD
+http://m.70.ms:80/51992993566/qwe2131/10371
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv3.png",SporTV 3 FHD²
+http://m.70.ms:80/51992993566/qwe2131/6916
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv3.png",SporTV 3 HD
+http://m.70.ms:80/51992993566/qwe2131/6478
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv3.png",SporTV 3 HD²
+http://m.70.ms:80/51992993566/qwe2131/10690
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv3.png",SporTV 3 SD
+http://m.70.ms:80/51992993566/qwe2131/6477
+#EXTINF:-1 group-title="SPORTV" tvg-logo="http://fivetv.xyz/logos/sportv3.png",SporTV 3 SD²
+http://m.70.ms:80/51992993566/qwe2131/10691
+#EXTINF:-1 group-title="SPORTV" tvg-logo="https://abrela.me/sportv4",SporTV 4 FHD
+http://m.70.ms:80/51992993566/qwe2131/253832
+#EXTINF:-1 group-title="SPORTV" tvg-logo="https://abrela.me/sportv4",SporTV 4 HD
+http://m.70.ms:80/51992993566/qwe2131/253831
+#EXTINF:-1 group-title="UHD 4K" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere Clubes UHD 4K
+http://m.70.ms:80/51992993566/qwe2131/28588
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere 2 H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34846
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere 3 H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34845
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere 4 H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34844
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere 5 H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34843
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere 6 H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34842
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere 7 H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34841
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere Clubes H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34840
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/globo.png",Globo SP H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/61426
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/record.png",Record SP H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/63847
+#EXTINF:-1 group-title="BAND" tvg-logo="https://fivetv.xyz/logos/band.png",Band SP FHD
+http://m.70.ms:80/51992993566/qwe2131/10869
+#EXTINF:-1 group-title="BAND" tvg-logo="https://fivetv.xyz/logos/band.png",Band SP FHD²
+http://m.70.ms:80/51992993566/qwe2131/16874
+#EXTINF:-1 group-title="BAND" tvg-logo="https://fivetv.xyz/logos/band.png",Band SP HD
+http://m.70.ms:80/51992993566/qwe2131/6640
+#EXTINF:-1 group-title="BAND" tvg-logo="https://fivetv.xyz/logos/band.png",Band SP HD²
+http://m.70.ms:80/51992993566/qwe2131/35364
+#EXTINF:-1 group-title="BAND" tvg-logo="https://fivetv.xyz/logos/band.png",Band SP SD
+http://m.70.ms:80/51992993566/qwe2131/6427
+#EXTINF:-1 group-title="BAND" tvg-logo="https://fivetv.xyz/logos/band.png",Band SP SD²
+http://m.70.ms:80/51992993566/qwe2131/35365
+#EXTINF:-1 group-title="UHD 4K" tvg-logo="https://fivetv.xyz/logos/sbt.png",SBT UHD 4K
+http://m.70.ms:80/51992993566/qwe2131/39676
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/megapix.png",Megapix FHD
+http://m.70.ms:80/51992993566/qwe2131/6918
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/megapix.png",Megapix FHD²
+http://m.70.ms:80/51992993566/qwe2131/35432
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/megapix.png",Megapix HD
+http://m.70.ms:80/51992993566/qwe2131/6537
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/megapix.png",Megapix HD²
+http://m.70.ms:80/51992993566/qwe2131/10740
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/megapix.png",Megapix SD
+http://m.70.ms:80/51992993566/qwe2131/6536
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/megapix.png",Megapix SD²
+http://m.70.ms:80/51992993566/qwe2131/10741
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/cinemax.png",Cinemax FHD
+http://m.70.ms:80/51992993566/qwe2131/28653
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/cinemax.png",Cinemax FHD²
+http://m.70.ms:80/51992993566/qwe2131/35445
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/cinemax.png",Cinemax HD
+http://m.70.ms:80/51992993566/qwe2131/6627
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/cinemax.png",Cinemax HD²
+http://m.70.ms:80/51992993566/qwe2131/6909
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/cinemax.png",Cinemax SD
+http://m.70.ms:80/51992993566/qwe2131/6626
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/space.png",Space FHD
+http://m.70.ms:80/51992993566/qwe2131/6934
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/space.png",Space FHD²
+http://m.70.ms:80/51992993566/qwe2131/16822
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/space.png",Space HD
+http://m.70.ms:80/51992993566/qwe2131/6488
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/space.png",Space HD²
+http://m.70.ms:80/51992993566/qwe2131/6890
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/space.png",Space SD
+http://m.70.ms:80/51992993566/qwe2131/6487
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/space.png",Space SD²
+http://m.70.ms:80/51992993566/qwe2131/10694
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/tnt.png",TNT FHD
+http://m.70.ms:80/51992993566/qwe2131/7050
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/tnt.png",TNT FHD²
+http://m.70.ms:80/51992993566/qwe2131/16808
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/tnt.png",TNT HD
+http://m.70.ms:80/51992993566/qwe2131/6457
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/tnt.png",TNT HD²
+http://m.70.ms:80/51992993566/qwe2131/10680
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/tnt.png",TNT SD
+http://m.70.ms:80/51992993566/qwe2131/6456
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/tnt.png",TNT SD²
+http://m.70.ms:80/51992993566/qwe2131/10681
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/mH",Telecine Action H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34832
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/mL",Telecine Cult H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34831
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/mn",Telecine Fun H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34830
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/m4",Telecine Pipoca H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34829
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/mb",Telecine Premium H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34828
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/mo",Telecine Touch H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34827
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/mB",A&E H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34822
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/amc.png",AMC H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34821
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="https://fivetv.xyz/logos/animalplanet.png",Animal Planet H265/HEVC
+http://m.70.ms:80/51992993566/qwe2131/34820
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo.png",HBO FHD
+http://m.70.ms:80/51992993566/qwe2131/6948
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo.png",HBO FHD²
+http://m.70.ms:80/51992993566/qwe2131/16846
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo.png",HBO HD
+http://m.70.ms:80/51992993566/qwe2131/6555
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo.png",HBO HD²
+http://m.70.ms:80/51992993566/qwe2131/6906
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo.png",HBO SD
+http://m.70.ms:80/51992993566/qwe2131/6554
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo.png",HBO SD²
+http://m.70.ms:80/51992993566/qwe2131/10768
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo2.png",HBO 2 FHD
+http://m.70.ms:80/51992993566/qwe2131/6953
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo2.png",HBO 2 FHD²
+http://m.70.ms:80/51992993566/qwe2131/16847
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo2.png",HBO 2 HD
+http://m.70.ms:80/51992993566/qwe2131/6559
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo2.png",HBO 2 HD²
+http://m.70.ms:80/51992993566/qwe2131/6892
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo2.png",HBO 2 SD
+http://m.70.ms:80/51992993566/qwe2131/6558
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbo2.png",HBO 2 SD²
+http://m.70.ms:80/51992993566/qwe2131/10767
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbofamily.png",HBO Family FHD
+http://m.70.ms:80/51992993566/qwe2131/28646
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbofamily.png",HBO Family FHD²
+http://m.70.ms:80/51992993566/qwe2131/61606
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbofamily.png",HBO Family HD
+http://m.70.ms:80/51992993566/qwe2131/6557
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbofamily.png",HBO Family HD²
+http://m.70.ms:80/51992993566/qwe2131/10765
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbofamily.png",HBO Family SD
+http://m.70.ms:80/51992993566/qwe2131/6556
+#EXTINF:-1 group-title="HBO" tvg-logo="https://fivetv.xyz/logos/hbofamily.png",HBO Family SD²
+http://m.70.ms:80/51992993566/qwe2131/10766
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA",Todo Mundo Odeia o Chris T01
+http://m.70.ms:80/51992993566/qwe2131/250600
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA",Todo Mundo Odeia o Chris T02
+http://m.70.ms:80/51992993566/qwe2131/250601
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA",Todo Mundo Odeia o Chris T03
+http://m.70.ms:80/51992993566/qwe2131/250602
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA",Todo Mundo Odeia o Chris T04
+http://m.70.ms:80/51992993566/qwe2131/250603
+#EXTINF:-1 group-title="SERIES 24 HORAS",Um Maluco no Pedaço
+http://m.70.ms:80/51992993566/qwe2131/74245
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA" tvg-logo="http://70.ms/ZgY3nT",UM MALUCO NO PEDACO T06
+http://m.70.ms:80/51992993566/qwe2131/155435
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA" tvg-logo="http://70.ms/ZgY3nT",UM MALUCO NO PEDACO T05
+http://m.70.ms:80/51992993566/qwe2131/155434
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA" tvg-logo="http://70.ms/ZgY3nT",UM MALUCO NO PEDACO T04
+http://m.70.ms:80/51992993566/qwe2131/155433
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA" tvg-logo="http://70.ms/ZgY3nT",UM MALUCO NO PEDACO T03
+http://m.70.ms:80/51992993566/qwe2131/155432
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA" tvg-logo="http://70.ms/ZgY3nT",UM MALUCO NO PEDACO T02
+http://m.70.ms:80/51992993566/qwe2131/155431
+#EXTINF:-1 group-title="SERIES 24H POR TEMPORADA" tvg-logo="http://70.ms/ZgY3nX",UM MALUCO NO PEDACO T01
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHs",Todo Mundo Odeia O Chris S01 E01
+http://m.70.ms:80/series/51992993566/qwe2131/93231.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYH2",Todo Mundo Odeia O Chris S01 E02
+http://m.70.ms:80/series/51992993566/qwe2131/93232.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHR",Todo Mundo Odeia O Chris S01 E03
+http://m.70.ms:80/series/51992993566/qwe2131/93233.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHW",Todo Mundo Odeia O Chris S01 E04
+http://m.70.ms:80/series/51992993566/qwe2131/93234.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHC",Todo Mundo Odeia O Chris S01 E05
+http://m.70.ms:80/series/51992993566/qwe2131/93235.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="https://tv5.me/images/nYfvhUtbqMGtd5iV9sj2fdEFN5p_big.jpg",Todo Mundo Odeia O Chris S01 E06
+http://m.70.ms:80/series/51992993566/qwe2131/93236.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHB",Todo Mundo Odeia O Chris S01 E07
+http://m.70.ms:80/series/51992993566/qwe2131/93237.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHa",Todo Mundo Odeia O Chris S01 E08
+http://m.70.ms:80/series/51992993566/qwe2131/93238.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHN",Todo Mundo Odeia O Chris S01 E09
+http://m.70.ms:80/series/51992993566/qwe2131/93239.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHr",Todo Mundo Odeia O Chris S01 E10
+http://m.70.ms:80/series/51992993566/qwe2131/93240.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHe",Todo Mundo Odeia O Chris S01 E11
+http://m.70.ms:80/series/51992993566/qwe2131/93241.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHo",Todo Mundo Odeia O Chris S01 E12
+http://m.70.ms:80/series/51992993566/qwe2131/93242.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHb",Todo Mundo Odeia O Chris S01 E13
+http://m.70.ms:80/series/51992993566/qwe2131/93243.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYH4",Todo Mundo Odeia O Chris S01 E14
+http://m.70.ms:80/series/51992993566/qwe2131/93244.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="https://tv5.me/images/nYfvhUtbqMGtd5iV9sj2fdEFN5p_big.jpg",Todo Mundo Odeia O Chris S01 E15
+http://m.70.ms:80/series/51992993566/qwe2131/93245.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHL",Todo Mundo Odeia O Chris S01 E16
+http://m.70.ms:80/series/51992993566/qwe2131/93246.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHH",Todo Mundo Odeia O Chris S01 E17
+http://m.70.ms:80/series/51992993566/qwe2131/93247.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHE",Todo Mundo Odeia O Chris S01 E18
+http://m.70.ms:80/series/51992993566/qwe2131/93248.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYHS",Todo Mundo Odeia O Chris S01 E19
+http://m.70.ms:80/series/51992993566/qwe2131/93249.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="https://tv5.me/images/nYfvhUtbqMGtd5iV9sj2fdEFN5p_big.jpg",Todo Mundo Odeia O Chris S01 E20
+http://m.70.ms:80/series/51992993566/qwe2131/93250.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEZ",Todo Mundo Odeia O Chris S01 E21
+http://m.70.ms:80/series/51992993566/qwe2131/93251.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE6",Todo Mundo Odeia O Chris S01 E22
+http://m.70.ms:80/series/51992993566/qwe2131/93252.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEh",Todo Mundo Odeia O Chris S02 E01
+http://m.70.ms:80/series/51992993566/qwe2131/93253.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEd",Todo Mundo Odeia O Chris S02 E02
+http://m.70.ms:80/series/51992993566/qwe2131/93254.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEO",Todo Mundo Odeia O Chris S02 E03
+http://m.70.ms:80/series/51992993566/qwe2131/93255.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE5",Todo Mundo Odeia O Chris S02 E04
+http://m.70.ms:80/series/51992993566/qwe2131/93256.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE9",Todo Mundo Odeia O Chris S02 E05
+http://m.70.ms:80/series/51992993566/qwe2131/93257.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEX",Todo Mundo Odeia O Chris S02 E06
+http://m.70.ms:80/series/51992993566/qwe2131/93258.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYET",Todo Mundo Odeia O Chris S02 E07
+http://m.70.ms:80/series/51992993566/qwe2131/93259.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEJ",Todo Mundo Odeia O Chris S02 E08
+http://m.70.ms:80/series/51992993566/qwe2131/93260.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEm",Todo Mundo Odeia O Chris S02 E09
+http://m.70.ms:80/series/51992993566/qwe2131/93261.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEU",Todo Mundo Odeia O Chris S02 E10
+http://m.70.ms:80/series/51992993566/qwe2131/93262.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEP",Todo Mundo Odeia O Chris S02 E11
+http://m.70.ms:80/series/51992993566/qwe2131/93263.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE3",Todo Mundo Odeia O Chris S02 E12
+http://m.70.ms:80/series/51992993566/qwe2131/93264.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE1",Todo Mundo Odeia O Chris S02 E13
+http://m.70.ms:80/series/51992993566/qwe2131/93265.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEY",Todo Mundo Odeia O Chris S02 E14
+http://m.70.ms:80/series/51992993566/qwe2131/93266.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="https://tv5.me/images/nYfvhUtbqMGtd5iV9sj2fdEFN5p_big.jpg",Todo Mundo Odeia O Chris S02 E15
+http://m.70.ms:80/series/51992993566/qwe2131/93267.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEG",Todo Mundo Odeia O Chris S02 E16
+http://m.70.ms:80/series/51992993566/qwe2131/93268.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE7",Todo Mundo Odeia O Chris S02 E17
+http://m.70.ms:80/series/51992993566/qwe2131/93269.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEF",Todo Mundo Odeia O Chris S02 E18
+http://m.70.ms:80/series/51992993566/qwe2131/93270.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEv",Todo Mundo Odeia O Chris S02 E19
+http://m.70.ms:80/series/51992993566/qwe2131/93271.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEQ",Todo Mundo Odeia O Chris S02 E20
+http://m.70.ms:80/series/51992993566/qwe2131/93272.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEy",Todo Mundo Odeia O Chris S02 E21
+http://m.70.ms:80/series/51992993566/qwe2131/93273.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEq",Todo Mundo Odeia O Chris S02 E22
+http://m.70.ms:80/series/51992993566/qwe2131/93274.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEj",Todo Mundo Odeia O Chris S03 E01
+http://m.70.ms:80/series/51992993566/qwe2131/93275.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEl",Todo Mundo Odeia O Chris S03 E02
+http://m.70.ms:80/series/51992993566/qwe2131/93276.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEK",Todo Mundo Odeia O Chris S03 E03
+http://m.70.ms:80/series/51992993566/qwe2131/93277.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEk",Todo Mundo Odeia O Chris S03 E04
+http://m.70.ms:80/series/51992993566/qwe2131/93278.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEf",Todo Mundo Odeia O Chris S03 E05
+http://m.70.ms:80/series/51992993566/qwe2131/93279.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE8",Todo Mundo Odeia O Chris S03 E06
+http://m.70.ms:80/series/51992993566/qwe2131/93280.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEz",Todo Mundo Odeia O Chris S03 E07
+http://m.70.ms:80/series/51992993566/qwe2131/93281.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEw",Todo Mundo Odeia O Chris S03 E08
+http://m.70.ms:80/series/51992993566/qwe2131/93282.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEi",Todo Mundo Odeia O Chris S03 E09
+http://m.70.ms:80/series/51992993566/qwe2131/93283.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEt",Todo Mundo Odeia O Chris S03 E10
+http://m.70.ms:80/series/51992993566/qwe2131/93284.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEx",Todo Mundo Odeia O Chris S03 E11
+http://m.70.ms:80/series/51992993566/qwe2131/93285.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE0",Todo Mundo Odeia O Chris S03 E12
+http://m.70.ms:80/series/51992993566/qwe2131/93286.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="https://tv5.me/images/nYfvhUtbqMGtd5iV9sj2fdEFN5p_big.jpg",Todo Mundo Odeia O Chris S03 E13
+http://m.70.ms:80/series/51992993566/qwe2131/93287.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEc",Todo Mundo Odeia O Chris S03 E14
+http://m.70.ms:80/series/51992993566/qwe2131/93288.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEu",Todo Mundo Odeia O Chris S03 E15
+http://m.70.ms:80/series/51992993566/qwe2131/93289.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEp",Todo Mundo Odeia O Chris S03 E16
+http://m.70.ms:80/series/51992993566/qwe2131/93290.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYED",Todo Mundo Odeia O Chris S03 E17
+http://m.70.ms:80/series/51992993566/qwe2131/93291.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEV",Todo Mundo Odeia O Chris S03 E18
+http://m.70.ms:80/series/51992993566/qwe2131/93292.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEs",Todo Mundo Odeia O Chris S03 E19
+http://m.70.ms:80/series/51992993566/qwe2131/93293.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE2",Todo Mundo Odeia O Chris S03 E20
+http://m.70.ms:80/series/51992993566/qwe2131/93294.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYER",Todo Mundo Odeia O Chris S03 E21
+http://m.70.ms:80/series/51992993566/qwe2131/93295.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEW",Todo Mundo Odeia O Chris S03 E22
+http://m.70.ms:80/series/51992993566/qwe2131/93296.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEC",Todo Mundo Odeia O Chris S04 E01
+http://m.70.ms:80/series/51992993566/qwe2131/93297.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEI",Todo Mundo Odeia O Chris S04 E02
+http://m.70.ms:80/series/51992993566/qwe2131/93298.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEB",Todo Mundo Odeia O Chris S04 E03
+http://m.70.ms:80/series/51992993566/qwe2131/93299.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEa",Todo Mundo Odeia O Chris S04 E04
+http://m.70.ms:80/series/51992993566/qwe2131/93300.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEN",Todo Mundo Odeia O Chris S04 E05
+http://m.70.ms:80/series/51992993566/qwe2131/93301.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEr",Todo Mundo Odeia O Chris S04 E06
+http://m.70.ms:80/series/51992993566/qwe2131/93302.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEe",Todo Mundo Odeia O Chris S04 E07
+http://m.70.ms:80/series/51992993566/qwe2131/93303.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEo",Todo Mundo Odeia O Chris S04 E08
+http://m.70.ms:80/series/51992993566/qwe2131/93304.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEb",Todo Mundo Odeia O Chris S04 E09
+http://m.70.ms:80/series/51992993566/qwe2131/93305.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYE4",Todo Mundo Odeia O Chris S04 E10
+http://m.70.ms:80/series/51992993566/qwe2131/93306.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEn",Todo Mundo Odeia O Chris S04 E11
+http://m.70.ms:80/series/51992993566/qwe2131/93307.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEL",Todo Mundo Odeia O Chris S04 E12
+http://m.70.ms:80/series/51992993566/qwe2131/93308.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEH",Todo Mundo Odeia O Chris S04 E13
+http://m.70.ms:80/series/51992993566/qwe2131/93309.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYEE",Todo Mundo Odeia O Chris S04 E14
+http://m.70.ms:80/series/51992993566/qwe2131/93310.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYES",Todo Mundo Odeia O Chris S04 E15
+http://m.70.ms:80/series/51992993566/qwe2131/93311.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYSg",Todo Mundo Odeia O Chris S04 E16
+http://m.70.ms:80/series/51992993566/qwe2131/93312.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYSZ",Todo Mundo Odeia O Chris S04 E17
+http://m.70.ms:80/series/51992993566/qwe2131/93313.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYS6",Todo Mundo Odeia O Chris S04 E18
+http://m.70.ms:80/series/51992993566/qwe2131/93314.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYSh",Todo Mundo Odeia O Chris S04 E19
+http://m.70.ms:80/series/51992993566/qwe2131/93315.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYSd",Todo Mundo Odeia O Chris S04 E20
+http://m.70.ms:80/series/51992993566/qwe2131/93316.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYSO",Todo Mundo Odeia O Chris S04 E21
+http://m.70.ms:80/series/51992993566/qwe2131/93317.mp4
+#EXTINF:-1 group-title="HBO Max" tvg-logo="http://urlon.me/ZgYYS5",Todo Mundo Odeia O Chris S04 E22
+http://m.70.ms:80/series/51992993566/qwe2131/93318.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S01 E01
+http://m.70.ms:80/series/51992993566/qwe2131/152567.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S01 E02
+http://m.70.ms:80/series/51992993566/qwe2131/152568.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S01 E03
+http://m.70.ms:80/series/51992993566/qwe2131/152569.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S01 E04
+http://m.70.ms:80/series/51992993566/qwe2131/152570.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S01 E05
+http://m.70.ms:80/series/51992993566/qwe2131/152571.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S01 E06
+http://m.70.ms:80/series/51992993566/qwe2131/152572.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E01
+http://m.70.ms:80/series/51992993566/qwe2131/152573.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E02
+http://m.70.ms:80/series/51992993566/qwe2131/152574.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E03
+http://m.70.ms:80/series/51992993566/qwe2131/152575.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E04
+http://m.70.ms:80/series/51992993566/qwe2131/152576.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E05
+http://m.70.ms:80/series/51992993566/qwe2131/152577.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E06
+http://m.70.ms:80/series/51992993566/qwe2131/152578.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E07
+http://m.70.ms:80/series/51992993566/qwe2131/152579.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E08
+http://m.70.ms:80/series/51992993566/qwe2131/152580.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E09
+http://m.70.ms:80/series/51992993566/qwe2131/152581.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E10
+http://m.70.ms:80/series/51992993566/qwe2131/152582.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E11
+http://m.70.ms:80/series/51992993566/qwe2131/152583.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E12
+http://m.70.ms:80/series/51992993566/qwe2131/152584.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E13
+http://m.70.ms:80/series/51992993566/qwe2131/152585.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S02 E14
+http://m.70.ms:80/series/51992993566/qwe2131/152586.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E01
+http://m.70.ms:80/series/51992993566/qwe2131/152587.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E02
+http://m.70.ms:80/series/51992993566/qwe2131/152588.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E03
+http://m.70.ms:80/series/51992993566/qwe2131/152589.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E04
+http://m.70.ms:80/series/51992993566/qwe2131/152590.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E05
+http://m.70.ms:80/series/51992993566/qwe2131/152591.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E06
+http://m.70.ms:80/series/51992993566/qwe2131/152592.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E07
+http://m.70.ms:80/series/51992993566/qwe2131/152593.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E08
+http://m.70.ms:80/series/51992993566/qwe2131/152594.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E09
+http://m.70.ms:80/series/51992993566/qwe2131/152595.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E10
+http://m.70.ms:80/series/51992993566/qwe2131/152596.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E11
+http://m.70.ms:80/series/51992993566/qwe2131/152597.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E12
+http://m.70.ms:80/series/51992993566/qwe2131/152598.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E13
+http://m.70.ms:80/series/51992993566/qwe2131/152599.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E14
+http://m.70.ms:80/series/51992993566/qwe2131/152600.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E15
+http://m.70.ms:80/series/51992993566/qwe2131/152601.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E16
+http://m.70.ms:80/series/51992993566/qwe2131/152602.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E17
+http://m.70.ms:80/series/51992993566/qwe2131/152603.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E18
+http://m.70.ms:80/series/51992993566/qwe2131/152604.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E19
+http://m.70.ms:80/series/51992993566/qwe2131/152605.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S03 E20
+http://m.70.ms:80/series/51992993566/qwe2131/152606.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E01
+http://m.70.ms:80/series/51992993566/qwe2131/152607.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E02
+http://m.70.ms:80/series/51992993566/qwe2131/152608.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E03
+http://m.70.ms:80/series/51992993566/qwe2131/152609.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E04
+http://m.70.ms:80/series/51992993566/qwe2131/152610.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E05
+http://m.70.ms:80/series/51992993566/qwe2131/152611.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E06
+http://m.70.ms:80/series/51992993566/qwe2131/152612.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E07
+http://m.70.ms:80/series/51992993566/qwe2131/152613.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E08
+http://m.70.ms:80/series/51992993566/qwe2131/152614.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E09
+http://m.70.ms:80/series/51992993566/qwe2131/152615.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E10
+http://m.70.ms:80/series/51992993566/qwe2131/152616.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E11
+http://m.70.ms:80/series/51992993566/qwe2131/152617.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E12
+http://m.70.ms:80/series/51992993566/qwe2131/152618.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E13
+http://m.70.ms:80/series/51992993566/qwe2131/152619.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E14
+http://m.70.ms:80/series/51992993566/qwe2131/152620.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E15
+http://m.70.ms:80/series/51992993566/qwe2131/152621.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E16
+http://m.70.ms:80/series/51992993566/qwe2131/152622.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E17
+http://m.70.ms:80/series/51992993566/qwe2131/152623.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E18
+http://m.70.ms:80/series/51992993566/qwe2131/152624.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E19
+http://m.70.ms:80/series/51992993566/qwe2131/152625.mp4
+#EXTINF:-1 group-title="Paramount+" tvg-logo="http://5ce.me:80/images/sVHs1XFdXbFl9GznwKHw2iSgq2e_big.jpg",Drake E Josh S04 E20
+http://m.70.ms:80/series/51992993566/qwe2131/152626.mp4
