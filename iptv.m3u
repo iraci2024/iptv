@@ -1,887 +1,175 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP FHD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP FHD
-http://15110166167.com:80/107777725/everton9273x/255465
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP UHD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP UHD
-http://15110166167.com:80/107777725/everton9273x/255466
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP HD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP HD
-http://15110166167.com:80/107777725/everton9273x/255467
-#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP FHD" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP FHD
-http://15110166167.com:80/107777725/everton9273x/244161
-#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP H265" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP H265
-http://15110166167.com:80/107777725/everton9273x/244163
-#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP UHD" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP UHD
-http://15110166167.com:80/107777725/everton9273x/244164
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png" group-title="Canais | 4K",GLOBO SP 4K
-http://15110166167.com:80/107777725/everton9273x/284587
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP FHD
-http://15110166167.com:80/107777725/everton9273x/289881
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP UHD" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP UHD
-http://15110166167.com:80/107777725/everton9273x/289882
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 4K " tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN 4K 
-http://15110166167.com:80/107777725/everton9273x/284584
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra 4K " tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN Extra 4K 
-http://15110166167.com:80/107777725/everton9273x/284585
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD
-http://15110166167.com:80/107777725/everton9273x/494
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes H265" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes H265
-http://15110166167.com:80/107777725/everton9273x/52089
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes UHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes UHD
-http://15110166167.com:80/107777725/everton9273x/21269
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes HD
-http://15110166167.com:80/107777725/everton9273x/492
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes HD²" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes HD²
-http://15110166167.com:80/107777725/everton9273x/493
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes SD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes SD
-http://15110166167.com:80/107777725/everton9273x/491
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 FHD
-http://15110166167.com:80/107777725/everton9273x/499
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 H265" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 H265
-http://15110166167.com:80/107777725/everton9273x/127882
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 UHD
-http://15110166167.com:80/107777725/everton9273x/21266
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 HD
-http://15110166167.com:80/107777725/everton9273x/497
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 HD²
-http://15110166167.com:80/107777725/everton9273x/498
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 SD
-http://15110166167.com:80/107777725/everton9273x/496
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 FHD
-http://15110166167.com:80/107777725/everton9273x/504
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 H265" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 H265
-http://15110166167.com:80/107777725/everton9273x/360924
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 UHD
-http://15110166167.com:80/107777725/everton9273x/21267
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 HD
-http://15110166167.com:80/107777725/everton9273x/502
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 HD²
-http://15110166167.com:80/107777725/everton9273x/503
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 SD
-http://15110166167.com:80/107777725/everton9273x/501
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 FHD
-http://15110166167.com:80/107777725/everton9273x/509
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 H265" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 H265
-http://15110166167.com:80/107777725/everton9273x/360925
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 UHD
-http://15110166167.com:80/107777725/everton9273x/21327
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 HD
-http://15110166167.com:80/107777725/everton9273x/507
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 HD²
-http://15110166167.com:80/107777725/everton9273x/508
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 SD
-http://15110166167.com:80/107777725/everton9273x/506
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 FHD
-http://15110166167.com:80/107777725/everton9273x/514
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 H265" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 H265
-http://15110166167.com:80/107777725/everton9273x/360926
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 UHD
-http://15110166167.com:80/107777725/everton9273x/21268
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 HD
-http://15110166167.com:80/107777725/everton9273x/512
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 HD²
-http://15110166167.com:80/107777725/everton9273x/513
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 SD
-http://15110166167.com:80/107777725/everton9273x/511
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 FHD
-http://15110166167.com:80/107777725/everton9273x/519
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 H265" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 H265
-http://15110166167.com:80/107777725/everton9273x/360927
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 UHD
-http://15110166167.com:80/107777725/everton9273x/21328
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 HD
-http://15110166167.com:80/107777725/everton9273x/517
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 HD²
-http://15110166167.com:80/107777725/everton9273x/518
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 SD
-http://15110166167.com:80/107777725/everton9273x/516
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 FHD
-http://15110166167.com:80/107777725/everton9273x/524
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 H265" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 H265
-http://15110166167.com:80/107777725/everton9273x/360928
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 UHD
-http://15110166167.com:80/107777725/everton9273x/21329
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 HD
-http://15110166167.com:80/107777725/everton9273x/522
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 HD²
-http://15110166167.com:80/107777725/everton9273x/523
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 SD
-http://15110166167.com:80/107777725/everton9273x/521
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 8 FHD
-http://15110166167.com:80/107777725/everton9273x/380748
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 HD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 8 HD
-http://15110166167.com:80/107777725/everton9273x/380749
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 8 SD
-http://15110166167.com:80/107777725/everton9273x/526
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV FHD
-http://15110166167.com:80/107777725/everton9273x/118881
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV H265" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV H265
-http://15110166167.com:80/107777725/everton9273x/52090
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV UHD" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV UHD
-http://15110166167.com:80/107777725/everton9273x/21275
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV HD
-http://15110166167.com:80/107777725/everton9273x/547
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space FHD
-http://15110166167.com:80/107777725/everton9273x/707
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space UHD" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space UHD
-http://15110166167.com:80/107777725/everton9273x/21272
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
-http://15110166167.com:80/107777725/everton9273x/705
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD²" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD²
-http://15110166167.com:80/107777725/everton9273x/706
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space SD
-http://15110166167.com:80/107777725/everton9273x/704
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT FHD
-http://15110166167.com:80/107777725/everton9273x/733
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT UHD
-http://15110166167.com:80/107777725/everton9273x/21285
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD
-http://15110166167.com:80/107777725/everton9273x/731
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action FHD
-http://15110166167.com:80/107777725/everton9273x/615
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action UHD
-http://15110166167.com:80/107777725/everton9273x/21279
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD
-http://15110166167.com:80/107777725/everton9273x/613
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD²
-http://15110166167.com:80/107777725/everton9273x/614
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action SD
-http://15110166167.com:80/107777725/everton9273x/612
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult FHD
-http://15110166167.com:80/107777725/everton9273x/620
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult UHD
-http://15110166167.com:80/107777725/everton9273x/21280
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD
-http://15110166167.com:80/107777725/everton9273x/618
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD²
-http://15110166167.com:80/107777725/everton9273x/619
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult SD
-http://15110166167.com:80/107777725/everton9273x/617
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun FHD
-http://15110166167.com:80/107777725/everton9273x/625
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun UHD
-http://15110166167.com:80/107777725/everton9273x/21281
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
-http://15110166167.com:80/107777725/everton9273x/623
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD²
-http://15110166167.com:80/107777725/everton9273x/624
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun SD
-http://15110166167.com:80/107777725/everton9273x/622
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca FHD
-http://15110166167.com:80/107777725/everton9273x/630
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca UHD
-http://15110166167.com:80/107777725/everton9273x/21282
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://15110166167.com:80/107777725/everton9273x/628
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD²
-http://15110166167.com:80/107777725/everton9273x/629
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca SD
-http://15110166167.com:80/107777725/everton9273x/627
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium FHD
-http://15110166167.com:80/107777725/everton9273x/635
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium UHD
-http://15110166167.com:80/107777725/everton9273x/21283
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
-http://15110166167.com:80/107777725/everton9273x/633
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD²
-http://15110166167.com:80/107777725/everton9273x/634
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium SD
-http://15110166167.com:80/107777725/everton9273x/632
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch FHD
-http://15110166167.com:80/107777725/everton9273x/589
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch UHD
-http://15110166167.com:80/107777725/everton9273x/21284
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
-http://15110166167.com:80/107777725/everton9273x/587
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD²
-http://15110166167.com:80/107777725/everton9273x/588
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch SD
-http://15110166167.com:80/107777725/everton9273x/586
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC FHD
-http://15110166167.com:80/107777725/everton9273x/728
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC UHD
-http://15110166167.com:80/107777725/everton9273x/21349
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix FHD
-http://15110166167.com:80/107777725/everton9273x/692
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix UHD" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix UHD
-http://15110166167.com:80/107777725/everton9273x/21257
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
-http://15110166167.com:80/107777725/everton9273x/690
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD²" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD²
-http://15110166167.com:80/107777725/everton9273x/691
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [LEG ]" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Legendados",FX FHD [LEG ]
-http://15110166167.com:80/107777725/everton9273x/118916
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD [LEG ]" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Legendados",FX HD [LEG ]
-http://15110166167.com:80/107777725/everton9273x/118915
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 FHD
-http://15110166167.com:80/107777725/everton9273x/121598
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="HBO Max 1 H265" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 H265
-http://15110166167.com:80/107777725/everton9273x/121597
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO Max 1 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 UHD
-http://15110166167.com:80/107777725/everton9273x/367119
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="HBO Max 2 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 FHD
-http://15110166167.com:80/107777725/everton9273x/121600
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="HBO Max 2 H265" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 H265
-http://15110166167.com:80/107777725/everton9273x/121601
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO Max 2 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 UHD
-http://15110166167.com:80/107777725/everton9273x/367120
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="HBO Max 2 HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 HD
-http://15110166167.com:80/107777725/everton9273x/121602
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO Max 2 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 HD²
-http://15110166167.com:80/107777725/everton9273x/367121
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="HBO Max 3 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 FHD
-http://15110166167.com:80/107777725/everton9273x/121604
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="HBO Max 3 H265" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 H265
-http://15110166167.com:80/107777725/everton9273x/121605
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 UHD
-http://15110166167.com:80/107777725/everton9273x/367122
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="HBO Max 3 HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 HD
-http://15110166167.com:80/107777725/everton9273x/121606
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="HBO Max 4 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 FHD
-http://15110166167.com:80/107777725/everton9273x/121608
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="HBO Max 4 H265" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 H265
-http://15110166167.com:80/107777725/everton9273x/121609
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 UHD
-http://15110166167.com:80/107777725/everton9273x/367123
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="HBO Max 4 HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 HD
-http://15110166167.com:80/107777725/everton9273x/121610
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="HBO Max 5 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 FHD
-http://15110166167.com:80/107777725/everton9273x/121612
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="HBO Max 5 H265" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 H265
-http://15110166167.com:80/107777725/everton9273x/121613
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 UHD
-http://15110166167.com:80/107777725/everton9273x/367124
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 HD
-http://15110166167.com:80/107777725/everton9273x/121614
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="HBO Max 5 SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 SD
-http://15110166167.com:80/107777725/everton9273x/121615
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="HBO Max 6 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 FHD
-http://15110166167.com:80/107777725/everton9273x/121616
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="HBO Max 6 H265" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 H265
-http://15110166167.com:80/107777725/everton9273x/121617
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 UHD
-http://15110166167.com:80/107777725/everton9273x/367125
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 HD
-http://15110166167.com:80/107777725/everton9273x/121618
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="HBO Max 6 SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 SD
-http://15110166167.com:80/107777725/everton9273x/121619
-#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP FHD" tvg-logo="http://storage4you.net:2095/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP FHD
-http://15110166167.com:80/107777725/everton9273x/244071
-#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP UHD" tvg-logo="http://storage4you.net:2095/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP UHD
-http://15110166167.com:80/107777725/everton9273x/244073
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="RecordSP 4K " tvg-logo="http://storage4you.net:2095/logoscanais/RECORDTV.png" group-title="Canais | 4K",RecordSP 4K 
-http://15110166167.com:80/107777725/everton9273x/244074
-#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP HD" tvg-logo="http://storage4you.net:2095/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP HD
-http://15110166167.com:80/107777725/everton9273x/244075
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 1" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 1
-http://15110166167.com:80/107777725/everton9273x/272669
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 2" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 2
-http://15110166167.com:80/107777725/everton9273x/272670
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 3" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 3
-http://15110166167.com:80/107777725/everton9273x/272671
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 4" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 4
-http://15110166167.com:80/107777725/everton9273x/272672
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 5" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 5
-http://15110166167.com:80/107777725/everton9273x/272673
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 6" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 6
-http://15110166167.com:80/107777725/everton9273x/272674
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 7" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 7
-http://15110166167.com:80/107777725/everton9273x/272675
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 8" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 8
-http://15110166167.com:80/107777725/everton9273x/272676
-#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="[24H] Um Maluco no Pedaço 1" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 1
-http://15110166167.com:80/107777725/everton9273x/272677
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 2" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 2
-http://15110166167.com:80/107777725/everton9273x/272678
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 3" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 3
-http://15110166167.com:80/107777725/everton9273x/272679
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 4" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 4
-http://15110166167.com:80/107777725/everton9273x/272680
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 5" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 5
-http://15110166167.com:80/107777725/everton9273x/272681
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 6" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 6
-http://15110166167.com:80/107777725/everton9273x/272682
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves 1" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Chaves 1
-http://15110166167.com:80/107777725/everton9273x/232221
-#EXTINF:-1 tvg-id="" tvg-name="24H] Chaves 2" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",24H] Chaves 2
-http://15110166167.com:80/107777725/everton9273x/232224
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20dphoYQ2djFzqOlrlEOehKrZtv.jpg" group-title="Séries | Paramount",Drake e Josh S01 E01
-http://15110166167.com:80/series/107777725/everton9273x/348488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6AYbLIQ6rpSirLPyYWTnwlhEyO.jpg" group-title="Séries | Paramount",Drake e Josh S01 E02
-http://15110166167.com:80/series/107777725/everton9273x/348489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aA82oPbxL9PhJ4yXNmNfRnA8Lan.jpg" group-title="Séries | Paramount",Drake e Josh S01 E03
-http://15110166167.com:80/series/107777725/everton9273x/348490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aunSWZraeDCGWaPfMx5WqCZuljG.jpg" group-title="Séries | Paramount",Drake e Josh S01 E04
-http://15110166167.com:80/series/107777725/everton9273x/348491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txrSmN00YxDHUp4w9ZwXJuxjwRz.jpg" group-title="Séries | Paramount",Drake e Josh S01 E05
-http://15110166167.com:80/series/107777725/everton9273x/348492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bj1dB0qLFugaUbFiBrttNPKJ7z.jpg" group-title="Séries | Paramount",Drake e Josh S01 E06
-http://15110166167.com:80/series/107777725/everton9273x/348493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0boZJEojBfr0hI8X5YFtYuPj9Q.jpg" group-title="Séries | Paramount",Drake e Josh S02 E01
-http://15110166167.com:80/series/107777725/everton9273x/348494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWTk7EbQeyi2FHLUqZARCuak728.jpg" group-title="Séries | Paramount",Drake e Josh S02 E02
-http://15110166167.com:80/series/107777725/everton9273x/348495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ai10PXpPJ3ZjYUCIccowENeMTn1.jpg" group-title="Séries | Paramount",Drake e Josh S02 E03
-http://15110166167.com:80/series/107777725/everton9273x/348496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpryaFrPy2RuC64AMf3WcXnGees.jpg" group-title="Séries | Paramount",Drake e Josh S02 E04
-http://15110166167.com:80/series/107777725/everton9273x/348497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlq077rvsQEeRbF4Kbksq25UjhS.jpg" group-title="Séries | Paramount",Drake e Josh S02 E05
-http://15110166167.com:80/series/107777725/everton9273x/348498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qktEf0ATLhbfGSSdMlOxVEA2zkj.jpg" group-title="Séries | Paramount",Drake e Josh S02 E06
-http://15110166167.com:80/series/107777725/everton9273x/348499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1InQC8ydAQw6c281Yfu0DRUwkaF.jpg" group-title="Séries | Paramount",Drake e Josh S02 E07
-http://15110166167.com:80/series/107777725/everton9273x/348500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZ8XXLqj9RtZh66p5HpsbQug90W.jpg" group-title="Séries | Paramount",Drake e Josh S02 E08
-http://15110166167.com:80/series/107777725/everton9273x/348501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjTClZw2bxki3279bBEaXGIvkyq.jpg" group-title="Séries | Paramount",Drake e Josh S02 E09
-http://15110166167.com:80/series/107777725/everton9273x/348502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbylIbwGpHtBVZGsQuu3WknTLd5.jpg" group-title="Séries | Paramount",Drake e Josh S02 E10
-http://15110166167.com:80/series/107777725/everton9273x/348503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph6JOBLtmnTxs2zrRPtYi8mcgtX.jpg" group-title="Séries | Paramount",Drake e Josh S02 E11
-http://15110166167.com:80/series/107777725/everton9273x/348504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEe3NHGFb0iMiV5gNKULtxVmuk5.jpg" group-title="Séries | Paramount",Drake e Josh S02 E12
-http://15110166167.com:80/series/107777725/everton9273x/348505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocxLYysZVDZtcwOC1wDQb6uHkcv.jpg" group-title="Séries | Paramount",Drake e Josh S03 E01
-http://15110166167.com:80/series/107777725/everton9273x/348506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nKA7a6vTiKXQd22zk7clGlJtrL.jpg" group-title="Séries | Paramount",Drake e Josh S03 E02
-http://15110166167.com:80/series/107777725/everton9273x/348507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goLtvj78Hmw1UmgIjqiaxD0T8VR.jpg" group-title="Séries | Paramount",Drake e Josh S03 E03
-http://15110166167.com:80/series/107777725/everton9273x/348508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weJqLaRyKQtka1n9hIvOUiec7pC.jpg" group-title="Séries | Paramount",Drake e Josh S03 E04
-http://15110166167.com:80/series/107777725/everton9273x/348509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jamPFRUmNbabtY0UPORuNvcSdWT.jpg" group-title="Séries | Paramount",Drake e Josh S03 E05
-http://15110166167.com:80/series/107777725/everton9273x/348510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5cgI4uYHcgokRA9ncq4Vs3ky4K.jpg" group-title="Séries | Paramount",Drake e Josh S03 E06
-http://15110166167.com:80/series/107777725/everton9273x/348511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI83hMKzgH6Re1lHlRpaxCs4yWN.jpg" group-title="Séries | Paramount",Drake e Josh S03 E07
-http://15110166167.com:80/series/107777725/everton9273x/348512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyX2D6acroHstM8xjvP0Gjs4ITv.jpg" group-title="Séries | Paramount",Drake e Josh S03 E08
-http://15110166167.com:80/series/107777725/everton9273x/348513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgvsoMCGgF7pFmEG2yEUmogOihH.jpg" group-title="Séries | Paramount",Drake e Josh S03 E09
-http://15110166167.com:80/series/107777725/everton9273x/348514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chiOoKlPPXeEVVFZvFXD43G8aS4.jpg" group-title="Séries | Paramount",Drake e Josh S03 E10
-http://15110166167.com:80/series/107777725/everton9273x/348515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXlT1q0yybCNmYRvM235bhgowTo.jpg" group-title="Séries | Paramount",Drake e Josh S03 E11
-http://15110166167.com:80/series/107777725/everton9273x/348516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyIKPmilzgSiO7P3h61bBIKSR7l.jpg" group-title="Séries | Paramount",Drake e Josh S03 E12
-http://15110166167.com:80/series/107777725/everton9273x/348517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dziPEKdTK62qzZz3LBtdic5wgNm.jpg" group-title="Séries | Paramount",Drake e Josh S03 E13
-http://15110166167.com:80/series/107777725/everton9273x/348518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KCSyPpKvR4M6tXDKjjDexYLQT7.jpg" group-title="Séries | Paramount",Drake e Josh S03 E14
-http://15110166167.com:80/series/107777725/everton9273x/348519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7utq5XSKoJwr2kvloom7wkJIIUa.jpg" group-title="Séries | Paramount",Drake e Josh S03 E15
-http://15110166167.com:80/series/107777725/everton9273x/348520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udCvGctktHvvf8w51XyTPfcmzDa.jpg" group-title="Séries | Paramount",Drake e Josh S03 E16
-http://15110166167.com:80/series/107777725/everton9273x/348521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udCvGctktHvvf8w51XyTPfcmzDa.jpg" group-title="Séries | Paramount",Drake e Josh S03 E17
-http://15110166167.com:80/series/107777725/everton9273x/348522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udCvGctktHvvf8w51XyTPfcmzDa.jpg" group-title="Séries | Paramount",Drake e Josh S03 E18
-http://15110166167.com:80/series/107777725/everton9273x/348523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6wjuiVp2e2nbDJYT2K4PB9JK5o.jpg" group-title="Séries | Paramount",Drake e Josh S04 E01
-http://15110166167.com:80/series/107777725/everton9273x/348524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ww2qEN8x68n4vBmS6ppzBWnTW52.jpg" group-title="Séries | Paramount",Drake e Josh S04 E02
-http://15110166167.com:80/series/107777725/everton9273x/348525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duCGtoovZJrtwTg31Ma9CxXy1lB.jpg" group-title="Séries | Paramount",Drake e Josh S04 E03
-http://15110166167.com:80/series/107777725/everton9273x/348526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71tIe5JiMdSmWLqvUCItGUrRVyp.jpg" group-title="Séries | Paramount",Drake e Josh S04 E04
-http://15110166167.com:80/series/107777725/everton9273x/348527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJG2r3kmKikQsT2OIrSZcAF7jjq.jpg" group-title="Séries | Paramount",Drake e Josh S04 E05
-http://15110166167.com:80/series/107777725/everton9273x/348528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77UCqYAjzPmFihVQ0LqKdubJwEc.jpg" group-title="Séries | Paramount",Drake e Josh S04 E06
-http://15110166167.com:80/series/107777725/everton9273x/348529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tj9x1pXPxQHqoBQ3Tnxn1RBzxso.jpg" group-title="Séries | Paramount",Drake e Josh S04 E07
-http://15110166167.com:80/series/107777725/everton9273x/348530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvwTzV0CaXkF8pMCdjl7G8dleYQ.jpg" group-title="Séries | Paramount",Drake e Josh S04 E08
-http://15110166167.com:80/series/107777725/everton9273x/348531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hkwuEcXKH15or0oKKSHGIjXdy0.jpg" group-title="Séries | Paramount",Drake e Josh S04 E09
-http://15110166167.com:80/series/107777725/everton9273x/348532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNlgdN2Fg4dd9myO9dR7E4Ww3vs.jpg" group-title="Séries | Paramount",Drake e Josh S04 E10
-http://15110166167.com:80/series/107777725/everton9273x/348533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w60n5SEEd8aVlbchKoajsuErmW6.jpg" group-title="Séries | Paramount",Drake e Josh S04 E11
-http://15110166167.com:80/series/107777725/everton9273x/348534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faHjt5TIDfOdNQFezual9CqRes4.jpg" group-title="Séries | Paramount",Drake e Josh S04 E12
-http://15110166167.com:80/series/107777725/everton9273x/348535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wk456Co1s0r01tnW3TEPa9TgYLu.jpg" group-title="Séries | Paramount",Drake e Josh S04 E13
-http://15110166167.com:80/series/107777725/everton9273x/348536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNcsnN1u7KhUD6YyhhXIVa1gurA.jpg" group-title="Séries | Paramount",Drake e Josh S04 E14
-http://15110166167.com:80/series/107777725/everton9273x/348537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDokZGf50MObHFfRjWioY0a47ts.jpg" group-title="Séries | Paramount",Drake e Josh S04 E15
-http://15110166167.com:80/series/107777725/everton9273x/348538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTCzSqbuNoDcY25gtfG4gPqMjCJ.jpg" group-title="Séries | Paramount",Drake e Josh S04 E16
-http://15110166167.com:80/series/107777725/everton9273x/348539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71DW85vDzOAAidUJcnlyooZMQKr.jpg" group-title="Séries | Paramount",Drake e Josh S04 E17
-http://15110166167.com:80/series/107777725/everton9273x/348540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYbFg76UqKXgDQX2EVuKs3monOc.jpg" group-title="Séries | Paramount",Drake e Josh S04 E18
-http://15110166167.com:80/series/107777725/everton9273x/348541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrVtuWJIndQDvt3HOUrjSx1ymHh.jpg" group-title="Séries | Paramount",Drake e Josh S04 E19
-http://15110166167.com:80/series/107777725/everton9273x/348542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pV7Tdi55X82u0fmuu20gRxVsSYc.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E01
-http://15110166167.com:80/series/107777725/everton9273x/378142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TZp23HPsyxIJRT2IWvOZPC8LeN.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E02
-http://15110166167.com:80/series/107777725/everton9273x/378143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/md0rAN8kMJw8aVw0Cj5xRjHUDkU.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E03
-http://15110166167.com:80/series/107777725/everton9273x/378144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyyY3lp67pjjrpsgJVuPE6Hl9AZ.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E04
-http://15110166167.com:80/series/107777725/everton9273x/378145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrK1cI6xpHS2cG5VglhxcYnaySJ.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E05
-http://15110166167.com:80/series/107777725/everton9273x/378146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQk4Bo6LvNsBPXnHuKoSCdYGeVD.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E06
-http://15110166167.com:80/series/107777725/everton9273x/378147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vy34m5uN2ihaPak2Z1rx0L6UCUb.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E07
-http://15110166167.com:80/series/107777725/everton9273x/378148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcnPuzXnTWsZrZBzEDTWMGSWyjU.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E08
-http://15110166167.com:80/series/107777725/everton9273x/378149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aARrXOiAVK0kuGnKVj00CoESF2o.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E09
-http://15110166167.com:80/series/107777725/everton9273x/378150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGYdzHeHnWg3J2MTh1UvRDa0PRC.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E10
-http://15110166167.com:80/series/107777725/everton9273x/378151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQy3UsABdHoeBlySHLVFBhT5DDy.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E11
-http://15110166167.com:80/series/107777725/everton9273x/378152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AKG7GUhp0S4YHU0j2PBSkWoUrm.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E12
-http://15110166167.com:80/series/107777725/everton9273x/378153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqZoWVfJRNXaMph4DWy18YUCMyY.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E13
-http://15110166167.com:80/series/107777725/everton9273x/378154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iymo4qsHtwzP01vInOoMM92fnWt.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E14
-http://15110166167.com:80/series/107777725/everton9273x/378155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkUVAyqxPW52UB8M9y8V1T8xms7.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E15
-http://15110166167.com:80/series/107777725/everton9273x/378156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pObAWXeFRloVtAJCDIdaWNGRJ3O.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E16
-http://15110166167.com:80/series/107777725/everton9273x/378157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l128xhQL8is4IJLxzrLiFnOzwqp.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E17
-http://15110166167.com:80/series/107777725/everton9273x/378158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCe5j3WQrKM21FitzvjYJGQwAL.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E18
-http://15110166167.com:80/series/107777725/everton9273x/378159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W7Byk4yIol2lcyiH6Cknd3mwtE.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E19
-http://15110166167.com:80/series/107777725/everton9273x/378160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pufMO5heTQLTbDCGBURFXRvIC8V.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E20
-http://15110166167.com:80/series/107777725/everton9273x/378161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WVtw39M9cFuZs7woCTnQ7HTShZ.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E21
-http://15110166167.com:80/series/107777725/everton9273x/378162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ak99G1qlXmuB9cI9NzLkOh5Gb6K.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S01 E22
-http://15110166167.com:80/series/107777725/everton9273x/378163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VtM48uA9nJgesuyX1xdixMCwuT.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E01
-http://15110166167.com:80/series/107777725/everton9273x/378164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HH28WKTLTcQGtVEiBrOZPpS7JL.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E02
-http://15110166167.com:80/series/107777725/everton9273x/378165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yakHxDDNMy73OU0cjPmJX0Nf2j3.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E03
-http://15110166167.com:80/series/107777725/everton9273x/378166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haz0rT5awgMGASCrGRUnyNoJi8N.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E04
-http://15110166167.com:80/series/107777725/everton9273x/378167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaGHz7ZHSOFw96BMCvTvLjJmMmp.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E05
-http://15110166167.com:80/series/107777725/everton9273x/378168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCb81k7xy0NsBsOSeha8p3PRkPH.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E06
-http://15110166167.com:80/series/107777725/everton9273x/378169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gRKfchuXw378PCe0nX9FRi8hWD.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E07
-http://15110166167.com:80/series/107777725/everton9273x/378170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4Mi9TDJL2pvy586C4Phfax0Pmd.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E08
-http://15110166167.com:80/series/107777725/everton9273x/378171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTmhUhV4t3FFRpSAtQ7k0mD6hYV.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E09
-http://15110166167.com:80/series/107777725/everton9273x/378172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLOmBbOVVFEB02kmGigKV8YrcNL.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E10
-http://15110166167.com:80/series/107777725/everton9273x/378173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsF5EYh5LvPzNcqHPTNSQEA3c8R.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E11
-http://15110166167.com:80/series/107777725/everton9273x/378174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEvJ0VXnaNfzUyXU90J6Bkv1QMy.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E12
-http://15110166167.com:80/series/107777725/everton9273x/378175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyFRYWzmGjvuq1qpJVittUphW02.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E13
-http://15110166167.com:80/series/107777725/everton9273x/378176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imTKFslGYqFVMYYI6BqZJjhtzim.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E14
-http://15110166167.com:80/series/107777725/everton9273x/378177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44s0zXpe5xsZ8CnG8oTRG7ZlODE.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E15
-http://15110166167.com:80/series/107777725/everton9273x/378178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AltBLDcEDYXZe4DKos39NOn7F91.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E16
-http://15110166167.com:80/series/107777725/everton9273x/378179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf1ugDNsNnVKfxaNXID4SBrjdXj.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E17
-http://15110166167.com:80/series/107777725/everton9273x/378180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykAYjGfvOFPG95V93K7B46PrRWm.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E18
-http://15110166167.com:80/series/107777725/everton9273x/378181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFGExNWAnGspUwxH4xT79sO1Oh.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E19
-http://15110166167.com:80/series/107777725/everton9273x/378182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/purOr7JvDLWPr1bIb2V4WEAzmNN.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E20
-http://15110166167.com:80/series/107777725/everton9273x/378183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHTBHpdFRqHosEO2mKhYZqjdfq6.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E21
-http://15110166167.com:80/series/107777725/everton9273x/378184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUMzlYjZWeehaPwC6Tkqpp1zhF1.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S02 E22
-http://15110166167.com:80/series/107777725/everton9273x/378185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnOn9Vpw1Xb0TKEJ3YkowJFCB0o.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E01
-http://15110166167.com:80/series/107777725/everton9273x/378186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8BRhK83nKMjvcewE4U4ApWmegY.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E02
-http://15110166167.com:80/series/107777725/everton9273x/378187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQxhWUDW9qQPQC4laERYxsseNyC.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E03
-http://15110166167.com:80/series/107777725/everton9273x/378188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v8G809iOcvZyS19ZcnKeIQh37W.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E04
-http://15110166167.com:80/series/107777725/everton9273x/378189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPIfaqc1yrZAc4sihXmjECkGcJg.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E05
-http://15110166167.com:80/series/107777725/everton9273x/378190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5yInSqYU4DYGMSErrsRrC1wq8Q.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E06
-http://15110166167.com:80/series/107777725/everton9273x/378191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbkn8fZ3YaLiiSzC7sM9xjlWbT7.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E07
-http://15110166167.com:80/series/107777725/everton9273x/378192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRaC4JwOzvO5yKgGmB2B2iy7yB.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E08
-http://15110166167.com:80/series/107777725/everton9273x/378193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnP1Zm2IXVZ3wJSB4o8zDOKziNk.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E09
-http://15110166167.com:80/series/107777725/everton9273x/378194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1VxQxA7pTjhYzkZsjOyt3l78uK.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E10
-http://15110166167.com:80/series/107777725/everton9273x/378195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAQCYr8TUq03IUfqfCbtsIqZvHh.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E11
-http://15110166167.com:80/series/107777725/everton9273x/378196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAfwL6IxOK185HctjHdF7AgdbJt.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E12
-http://15110166167.com:80/series/107777725/everton9273x/378197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8wqz1z5Q4Uqzk1w7cLmgu6NFkA.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E13
-http://15110166167.com:80/series/107777725/everton9273x/378198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWXH59mpCkqZesbKpb6A3o5oYwf.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E14
-http://15110166167.com:80/series/107777725/everton9273x/378199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85a8u6ugmWOn5k3IPXDpi0mXn68.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E15
-http://15110166167.com:80/series/107777725/everton9273x/378200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3GS01lLHhhwxCIywjzlzsCDEI4.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E16
-http://15110166167.com:80/series/107777725/everton9273x/378201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acKDSvMd6wuN9eUBxmnfmQ0D3Hk.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E17
-http://15110166167.com:80/series/107777725/everton9273x/378202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfF2f5HxCUoMSp6BADAJiVvoJAh.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E18
-http://15110166167.com:80/series/107777725/everton9273x/378203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xga549HORuPFdDyx1umtrdIyzCn.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E19
-http://15110166167.com:80/series/107777725/everton9273x/378204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMIfZvLANwy8N0aoZObNr6AQl3i.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E20
-http://15110166167.com:80/series/107777725/everton9273x/378205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEVptEhOjdmg0px6olyn29XLuzm.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E21
-http://15110166167.com:80/series/107777725/everton9273x/378206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWpEyKdwUR7zmNTqD7pldjeO6MX.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S03 E22
-http://15110166167.com:80/series/107777725/everton9273x/378207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwD6oLHYY8ZECw6gsHGw549zbIQ.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E01
-http://15110166167.com:80/series/107777725/everton9273x/378209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHd8ULm6gqYoV4S6sWN0KClmRKZ.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E02
-http://15110166167.com:80/series/107777725/everton9273x/378210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yKxYlk6N8Px55I7ghQN7XxYm8W.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E03
-http://15110166167.com:80/series/107777725/everton9273x/378211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xODrwrHHooEpISy2YK19WKnvRFK.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E04
-http://15110166167.com:80/series/107777725/everton9273x/378212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLJAIqLnNyyAaGdy2SxQOl0QWtO.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E05
-http://15110166167.com:80/series/107777725/everton9273x/378213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOCaBnJRxXRlOii8eDgVB4CRwdt.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E06
-http://15110166167.com:80/series/107777725/everton9273x/378214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUoUmAY0IFkQNqaoM1Jy8NOaRJ0.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E07
-http://15110166167.com:80/series/107777725/everton9273x/378215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehMeJdoIMoMLfGqBkTitdgY7jqN.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E08
-http://15110166167.com:80/series/107777725/everton9273x/378216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8zwv0aqbscizezJL1RKj7fTn4v.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E09
-http://15110166167.com:80/series/107777725/everton9273x/378217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ighpasPsNpptjnegESWi1thXBc.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E10
-http://15110166167.com:80/series/107777725/everton9273x/378218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozXhFm3dBSaiut74XYmZKqGgtju.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E11
-http://15110166167.com:80/series/107777725/everton9273x/378219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMi0UdCX1bUIqZ4UNPKaA4H9Ln5.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E12
-http://15110166167.com:80/series/107777725/everton9273x/378220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37eGrZ30JClPkutCVDFWtfNbp3s.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E13
-http://15110166167.com:80/series/107777725/everton9273x/378221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9nubbELK0xi4g3yOShsvw0pKHQ.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E14
-http://15110166167.com:80/series/107777725/everton9273x/378222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sQa8NqqDiCxbHcLmQRp133iHRV.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E15
-http://15110166167.com:80/series/107777725/everton9273x/378223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IGb5uIo8r034eo4oEjdpGJtBun.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E16
-http://15110166167.com:80/series/107777725/everton9273x/378224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loKMeiHO4NR4tlyb5Py0ecSwnKD.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E17
-http://15110166167.com:80/series/107777725/everton9273x/378225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bcLQsWCvoHHjY3ZXztKfiaNqTk.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E18
-http://15110166167.com:80/series/107777725/everton9273x/378226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzF53hDQsiXeTY8D89rlg9HOeA5.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E19
-http://15110166167.com:80/series/107777725/everton9273x/378227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JcNt6z3S79bo7K7FJCDfUHGKYJ.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E20
-http://15110166167.com:80/series/107777725/everton9273x/378228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5nQRfFWglIdcv1LyMXq4bW9oZg.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E21
-http://15110166167.com:80/series/107777725/everton9273x/378229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 2005 S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNh1iyHq2cVK6eMbLUBang5zQ5o.jpg" group-title="Séries | Prime Video",Todo Mundo Odeia o Chris 2005 S04 E22
-http://15110166167.com:80/series/107777725/everton9273x/378230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lCamIuABgSnlOzm6i1s2FIORxT.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E01
-http://15110166167.com:80/series/107777725/everton9273x/8633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6HCdjM5wMU4N1e72oq7cQRVUjh.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E02
-http://15110166167.com:80/series/107777725/everton9273x/8634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM81YQfLo3XV4tUiAjNHWmKyanq.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E03
-http://15110166167.com:80/series/107777725/everton9273x/8635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9xcqTuSwx71glpUAb51JCjdEA8.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E04
-http://15110166167.com:80/series/107777725/everton9273x/8636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i7MlV5hmQcsDaow4sxuqxeeFRP.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E05
-http://15110166167.com:80/series/107777725/everton9273x/8637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk9AkieYW7EpJitfN9hnsJkPm8T.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E06
-http://15110166167.com:80/series/107777725/everton9273x/8638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWdVwomUsOML2QfIXTSoP6Wc0Gy.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E07
-http://15110166167.com:80/series/107777725/everton9273x/8639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yea3DGqmx29O7xbzYy5enJM78Q6.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E08
-http://15110166167.com:80/series/107777725/everton9273x/8640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHL7AS1SFDkKFRMCWEc1XraBxeO.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E09
-http://15110166167.com:80/series/107777725/everton9273x/8641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a41BCHSYHCUPNv1o4bE5MyWPD7b.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E10
-http://15110166167.com:80/series/107777725/everton9273x/8642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdqVeAw8RcMRL0kVUqJ6geiysQS.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E11
-http://15110166167.com:80/series/107777725/everton9273x/8643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY1agjaM1nOMJJiiFhGnz3f1oWk.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E12
-http://15110166167.com:80/series/107777725/everton9273x/8644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY1agjaM1nOMJJiiFhGnz3f1oWk.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E13
-http://15110166167.com:80/series/107777725/everton9273x/8645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GjTBjUAJpawPsh1fyx7Asz9bHl.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E14
-http://15110166167.com:80/series/107777725/everton9273x/8646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pVmDdsF8wS8q8yidmSyRnL9Ufr.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E15
-http://15110166167.com:80/series/107777725/everton9273x/8647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t16Ko9t6doUMcNW5N2QKlr7P5OC.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E16
-http://15110166167.com:80/series/107777725/everton9273x/8648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi7uQq2TcxJP1T9Oti15NSBO6Zv.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E17
-http://15110166167.com:80/series/107777725/everton9273x/8649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3WGl5guZyeUq4RjodepmuJ8Ruo.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E18
-http://15110166167.com:80/series/107777725/everton9273x/8650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYZegQOtj6e2RKvl80xM9urGDr1.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E19
-http://15110166167.com:80/series/107777725/everton9273x/8651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qLv2xauoYf1FwxGUziBM5K3yXB.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E20
-http://15110166167.com:80/series/107777725/everton9273x/8652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yea3DGqmx29O7xbzYy5enJM78Q6.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E21
-http://15110166167.com:80/series/107777725/everton9273x/8653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWdVwomUsOML2QfIXTSoP6Wc0Gy.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E22
-http://15110166167.com:80/series/107777725/everton9273x/8654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94r0aMtVOeoN5JIOiVZ7RfX5Edp.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E23
-http://15110166167.com:80/series/107777725/everton9273x/8655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3UWdEVAtBpGWgeZyrKSDZMyWjO.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E24
-http://15110166167.com:80/series/107777725/everton9273x/8656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXCfqkkQgQJIjC0cpwqq049agk3.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S01 E25
-http://15110166167.com:80/series/107777725/everton9273x/8657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVm2oTF46lofsJsEdZxa053KhMN.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E01
-http://15110166167.com:80/series/107777725/everton9273x/8658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8VZoVnDVx6JRpR73fN3oaeM6Ra.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E02
-http://15110166167.com:80/series/107777725/everton9273x/8659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/embkswjPvsPMoLDpV4Ijs67Zi3k.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E03
-http://15110166167.com:80/series/107777725/everton9273x/8660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idtPOcYgTpdMbEjnnGSie440d3h.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E04
-http://15110166167.com:80/series/107777725/everton9273x/8661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfABpO4qIKBIKywkz0kNBgyug19.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E05
-http://15110166167.com:80/series/107777725/everton9273x/8662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8L42VvXNVDw0O3k1KMd8sqiD6VU.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E06
-http://15110166167.com:80/series/107777725/everton9273x/8663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0LGvw1zWId54qWLQ6ldgUI65ZH.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E07
-http://15110166167.com:80/series/107777725/everton9273x/8664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBnBMiSLnw4mRtOSddHGADVf0Mx.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E08
-http://15110166167.com:80/series/107777725/everton9273x/8665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N6PbZAcmSZk6huT6pmbgEphBIj.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E09
-http://15110166167.com:80/series/107777725/everton9273x/8666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94aAz0KKkIu5wLs8u0oTQAmfr77.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E10
-http://15110166167.com:80/series/107777725/everton9273x/8667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/598iSzyW0ByG62RtfENq2x2CjKX.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E11
-http://15110166167.com:80/series/107777725/everton9273x/8668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pijYpQD15GTEZ1p1IuYRnJt07E6.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E12
-http://15110166167.com:80/series/107777725/everton9273x/8669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTysmPPjhMl2fJIjwOPXCiriFbi.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E13
-http://15110166167.com:80/series/107777725/everton9273x/8670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueoRUQC27J2jnToFRcDw85XVCYI.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E14
-http://15110166167.com:80/series/107777725/everton9273x/8671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE9OAxIY5BfHLSzuR7wwqCmvVc6.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E15
-http://15110166167.com:80/series/107777725/everton9273x/8672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqq2C7d8GRSyCK9n5ZwtS1agCIP.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E16
-http://15110166167.com:80/series/107777725/everton9273x/8673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neAW4vf4SY6gkmb8f1DOoo38Zig.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E17
-http://15110166167.com:80/series/107777725/everton9273x/8674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UjYV51H5hOdQL0dsTkvapH5dUi.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E18
-http://15110166167.com:80/series/107777725/everton9273x/8675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0Duj09LuT09ZGcqHUSJCgg2rwi.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E19
-http://15110166167.com:80/series/107777725/everton9273x/8676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGD4tEdNnnXsQJLsrXFw4faqGUt.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E20
-http://15110166167.com:80/series/107777725/everton9273x/8677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEO4MlgfTvFdl1pVXWLPeTXTpRo.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E21
-http://15110166167.com:80/series/107777725/everton9273x/8678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siHHUueQWoF1IUSqTkPSsNRF71G.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E22
-http://15110166167.com:80/series/107777725/everton9273x/8679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrHJdhS6dPopPrqNMGjcX4lpm01.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E23
-http://15110166167.com:80/series/107777725/everton9273x/8680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92RH6ZKfX3Pu8TyI87xVCiLVIWd.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S02 E24
-http://15110166167.com:80/series/107777725/everton9273x/8681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLcs4eq4LnQDMCam25yv3HkZHSp.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E01
-http://15110166167.com:80/series/107777725/everton9273x/8682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Yd0jkUuxjNpxNMQV6xqvck4bzy.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E02
-http://15110166167.com:80/series/107777725/everton9273x/8683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3gvqPhstICPj9mgPa8pSVxYFuk.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E03
-http://15110166167.com:80/series/107777725/everton9273x/8684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTsvHzjrzBWJmGC04vdATGi4iap.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E04
-http://15110166167.com:80/series/107777725/everton9273x/8685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmgva3aIr4776vmqSN9jFHg4cHy.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E05
-http://15110166167.com:80/series/107777725/everton9273x/8686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ovBEZixXvugq49Yi98i442cC4n.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E06
-http://15110166167.com:80/series/107777725/everton9273x/8687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFwvCOl9hO9mvWhLYimWMYgovxc.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E07
-http://15110166167.com:80/series/107777725/everton9273x/8688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN0ZExD6u8hlp7k07L8WQOXgdpM.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E08
-http://15110166167.com:80/series/107777725/everton9273x/8689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgIkl298AxYES4m4agWwjG85XeH.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E09
-http://15110166167.com:80/series/107777725/everton9273x/8690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39bLD1H3r87Etd1VhbGXX14i6Sf.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E10
-http://15110166167.com:80/series/107777725/everton9273x/8691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j84QnUio5Tol42L5AWGe1x5QsL9.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E11
-http://15110166167.com:80/series/107777725/everton9273x/8692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHciNsvAyD2WQk2vmzfA4iQfqvD.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E12
-http://15110166167.com:80/series/107777725/everton9273x/8693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfruXYINwisxJiVW5UU5yQLMHu4.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E13
-http://15110166167.com:80/series/107777725/everton9273x/8694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA3MKiCDeOIX4LhE2pNk8Dca4MC.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E14
-http://15110166167.com:80/series/107777725/everton9273x/8695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbC4uN40Y3BSFkFGqmBGmDsNGny.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E15
-http://15110166167.com:80/series/107777725/everton9273x/8696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OW6wcu5WmvFNHD0ZfwjRcJKtvM.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E16
-http://15110166167.com:80/series/107777725/everton9273x/8697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23l4vDRaKTFA40M3peRiJgRk5Qv.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E17
-http://15110166167.com:80/series/107777725/everton9273x/8698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abIvmxQc6kkruMlypGwVEuPW3ex.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E18
-http://15110166167.com:80/series/107777725/everton9273x/8699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tp5ZduolFisrEwCXzMmhUTyAZjl.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E19
-http://15110166167.com:80/series/107777725/everton9273x/8700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3heUzNENLcKXPsrvd0WFI73A0e.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E20
-http://15110166167.com:80/series/107777725/everton9273x/8701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLUSKyxx7anec4c7SWZLDU6szMW.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E21
-http://15110166167.com:80/series/107777725/everton9273x/8702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCsirEZWQ0OJe3b9tBVaBJ3ihPA.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E22
-http://15110166167.com:80/series/107777725/everton9273x/8703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMAtPSiyOQcgViMK1iGkhL2kOrF.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E23
-http://15110166167.com:80/series/107777725/everton9273x/8704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td2YucuSYqMUYJi5Ft3pHqVR0WO.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S03 E24
-http://15110166167.com:80/series/107777725/everton9273x/8705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JbPHgnQtSOD5WOPWaSeBAARoOj.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E01
-http://15110166167.com:80/series/107777725/everton9273x/8706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj8WM0xkvSfis4o59OzXVHgIu8d.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E02
-http://15110166167.com:80/series/107777725/everton9273x/8707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8E1WNduBQ8MDErsAY9e8MM7zmM6.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E03
-http://15110166167.com:80/series/107777725/everton9273x/8708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi9JfWoNzwBtDVR3NGvyxceftBK.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E04
-http://15110166167.com:80/series/107777725/everton9273x/8709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOt8UTU9pJcXAA9jhCtRPySdqO8.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E05
-http://15110166167.com:80/series/107777725/everton9273x/8710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N4rpRufYI9qztYfRarGiKQMDfS.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E06
-http://15110166167.com:80/series/107777725/everton9273x/8711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH54DD9rkgYR3AhaESmj0wNguup.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E07
-http://15110166167.com:80/series/107777725/everton9273x/8712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5uqMpik60V8renGld1SxIIqahr.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E08
-http://15110166167.com:80/series/107777725/everton9273x/8713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnXycA7BoAinlW4vkm0tBo8n9AY.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E09
-http://15110166167.com:80/series/107777725/everton9273x/8714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9hcfx4yivRZqYEpbjcQBoo7M6e.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E10
-http://15110166167.com:80/series/107777725/everton9273x/8715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKjG6eHIFNFrwAlfkuG8tEi4YZS.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E11
-http://15110166167.com:80/series/107777725/everton9273x/8716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M6QmoNN1IjQ2mQCGeoK2taNh4s.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E12
-http://15110166167.com:80/series/107777725/everton9273x/8717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4r5FmhcnfnhnPUBMBLbGS4jdih.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E13
-http://15110166167.com:80/series/107777725/everton9273x/8718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uloPwgpfeI7iMQDm3WuKL1py9nW.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E14
-http://15110166167.com:80/series/107777725/everton9273x/8719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81CDleIjt9ZefXetdzkdNosO9Rz.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E15
-http://15110166167.com:80/series/107777725/everton9273x/8720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhudf25oSUjavgzKGuXWbdfc2ve.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E16
-http://15110166167.com:80/series/107777725/everton9273x/8721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdHJZfb8fJu8eEnsmL0Alhzem19.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E17
-http://15110166167.com:80/series/107777725/everton9273x/8722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBshKRqtqg1Cj2MMPJUDDQPgyoU.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E18
-http://15110166167.com:80/series/107777725/everton9273x/8723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14iqbRa8yQXs2FGESSDXhSUn4O2.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E19
-http://15110166167.com:80/series/107777725/everton9273x/8724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16kSwtzAN06fhhXlPaFnDT1LwVN.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E20
-http://15110166167.com:80/series/107777725/everton9273x/8725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEC2qBa0brkBeT0VtozxN6D2PmV.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E21
-http://15110166167.com:80/series/107777725/everton9273x/8726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arIaArtWAoj31kTgyqe04m7yk1B.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E22
-http://15110166167.com:80/series/107777725/everton9273x/8727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5Yr66L2CjLbfKjUV9HFcQ2GQDq.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E23
-http://15110166167.com:80/series/107777725/everton9273x/8728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtyVijMchSn0dsUCrkQHgLlNH0H.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E24
-http://15110166167.com:80/series/107777725/everton9273x/8729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIn5YlvFQa8NLV6Ak02emy6q13P.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E25
-http://15110166167.com:80/series/107777725/everton9273x/8730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yinzeZsSwJHt6ripg1d3d2iisx.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S04 E26
-http://15110166167.com:80/series/107777725/everton9273x/8731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqdPGuc1fLjr2fO12MPdhsBDqEb.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E01
-http://15110166167.com:80/series/107777725/everton9273x/8732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywFmRLKhutCxOZUgLDH7XaDEQmj.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E02
-http://15110166167.com:80/series/107777725/everton9273x/8733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1DM7ekk8Wm6BAmtA2VyZRXsi5J.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E03
-http://15110166167.com:80/series/107777725/everton9273x/8734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2nrfUHu7wzTxnfGMeqKm2gRcwB.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E04
-http://15110166167.com:80/series/107777725/everton9273x/8735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH7wMl7BlTgdfZAKVqCPOohzICd.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E05
-http://15110166167.com:80/series/107777725/everton9273x/8736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mx0EViLfNMwMWgPDyP0EUOy3rMt.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E06
-http://15110166167.com:80/series/107777725/everton9273x/8737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1Yeyzcz7umG9ofkQsH67nhIuHt.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E07
-http://15110166167.com:80/series/107777725/everton9273x/8738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89HIcYvUc5s6yPlyivgq7NLmGE9.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E08
-http://15110166167.com:80/series/107777725/everton9273x/8739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeDkKBAVCSUxtVtrjaJ580hJRNU.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E09
-http://15110166167.com:80/series/107777725/everton9273x/8740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lMxTlxNvwmP5Z69dIfF5ffFWZN.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E10
-http://15110166167.com:80/series/107777725/everton9273x/8741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5CmbE6unIzGhE4flcForkK2C1b.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E11
-http://15110166167.com:80/series/107777725/everton9273x/8742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kV9TRukw0Y64Zx96eZhahwN77jn.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E12
-http://15110166167.com:80/series/107777725/everton9273x/8743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ38qex2gntivN1Yqv3Z1pRgqba.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E13
-http://15110166167.com:80/series/107777725/everton9273x/8744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWAfYwnAeD45yGzjOUUtobE5dVP.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E14
-http://15110166167.com:80/series/107777725/everton9273x/8745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCLuVBT5mwtQn7PPUTsj6ZIkEL2.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E15
-http://15110166167.com:80/series/107777725/everton9273x/8746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0WWzvzsjdqC5c0A30rvTZTr6Wr.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E16
-http://15110166167.com:80/series/107777725/everton9273x/8747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzxHy7IfVb1At176xVIlFkcSHHq.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E17
-http://15110166167.com:80/series/107777725/everton9273x/8748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baKpIF2Dbb3rU8cygV4RyIxGATm.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E18
-http://15110166167.com:80/series/107777725/everton9273x/8749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRb4chpAO3yuS8xigh9P0clVkux.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E19
-http://15110166167.com:80/series/107777725/everton9273x/8750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R9gbyYVG6pNYYuz5LoUzgsXqOJ.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E20
-http://15110166167.com:80/series/107777725/everton9273x/8751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3YdN7an7SjhE6WtVf7gDtcsSvt.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E21
-http://15110166167.com:80/series/107777725/everton9273x/8752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97m2w0fqMJzSZkrqOMLUR5P3U9c.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E22
-http://15110166167.com:80/series/107777725/everton9273x/8753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IHARIa9jTEt4CgF0kHCNT5Aqsw.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E23
-http://15110166167.com:80/series/107777725/everton9273x/8754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sjyw0yMcfGJYwhAs1dG3lCJ7hz.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E24
-http://15110166167.com:80/series/107777725/everton9273x/8755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxh3bBZwUMotZFQralWUvF2wVpW.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S05 E25
-http://15110166167.com:80/series/107777725/everton9273x/8756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3uegjeFXC2m0L8w9onP0fN1T6x.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E01
-http://15110166167.com:80/series/107777725/everton9273x/8757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT9ZPNqSfplxYdKKydfVgT4K7CJ.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E02
-http://15110166167.com:80/series/107777725/everton9273x/8758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZGaN9OTKgGNffPWnNv8Lfbb4X0.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E03
-http://15110166167.com:80/series/107777725/everton9273x/8759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTkOu2NJiPQ7xOBjKeuEekPjFWi.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E04
-http://15110166167.com:80/series/107777725/everton9273x/8760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw6rTD7ARuTBQFQRmO0iMOS3Eaf.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E05
-http://15110166167.com:80/series/107777725/everton9273x/8761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEeTB1Og3f9J3Q3DEvDJ912CGYm.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E06
-http://15110166167.com:80/series/107777725/everton9273x/8762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcvR6bwVJAHp0BzYXmvAOLNq1eS.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E07
-http://15110166167.com:80/series/107777725/everton9273x/8763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gp882bEwaT3s996jYHd4AhxiDc.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E08
-http://15110166167.com:80/series/107777725/everton9273x/8764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujLnrLD87uXcpdM2GC1FRNudHMI.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E09
-http://15110166167.com:80/series/107777725/everton9273x/8765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8ZQLsVGcKeuV3NZhWcbxAT87DB.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E10
-http://15110166167.com:80/series/107777725/everton9273x/8766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atP4WfdpPBZldkpx67tLFimXWWT.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E11
-http://15110166167.com:80/series/107777725/everton9273x/8767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EnSNy3s7U8vEMUu0QCVGfiFjLX.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E12
-http://15110166167.com:80/series/107777725/everton9273x/8768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMyPLOflI5pQbLFvHJx6TrceD5a.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E13
-http://15110166167.com:80/series/107777725/everton9273x/8769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7RAxmStAk3mJob8pfozHqgWcwo.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E14
-http://15110166167.com:80/series/107777725/everton9273x/8770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSJUxc5odrX2MJKAkM7DoUlqOsA.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E15
-http://15110166167.com:80/series/107777725/everton9273x/8771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aptm3ALb5hBGagtIKgVES6Zne4u.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E16
-http://15110166167.com:80/series/107777725/everton9273x/8772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pziatUguvdTiFg9eDg68dYyjL8.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E17
-http://15110166167.com:80/series/107777725/everton9273x/8773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oWyodRAfbU4aFdeCG6pGqMbkqg.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E18
-http://15110166167.com:80/series/107777725/everton9273x/8774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmd3UlhjkUiWWojnB0q4w9Mr12u.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E19
-http://15110166167.com:80/series/107777725/everton9273x/8775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6WrNUq2htybOYGpSstYk4OUrK4.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E20
-http://15110166167.com:80/series/107777725/everton9273x/8776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55UCCrRgGkGI0KbxQaM3enLzyeo.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E21
-http://15110166167.com:80/series/107777725/everton9273x/8777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZEVsnUz8tb5el0IQNCZk3wmuVf.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E22
-http://15110166167.com:80/series/107777725/everton9273x/8778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9H6oQlP4J0DCT62RLlYFUrNL9.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E23
-http://15110166167.com:80/series/107777725/everton9273x/8779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV2Tl8fIKEmWnlgepWZnUkyRT3S.jpg" group-title="Séries | Prime Video",Um Maluco no Pedaço S06 E24
-http://15110166167.com:80/series/107777725/everton9273x/8780.mp4
+#EXTINF:-1 ,Unknown_1
+http://canal.cdntv.com.br:80/amanda123/amanda123/480
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Rio Sul - Globo
+http://canal.cdntv.com.br:80/amanda123/amanda123/3
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo RJ
+http://canal.cdntv.com.br:80/amanda123/amanda123/10
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo SP
+http://canal.cdntv.com.br:80/amanda123/amanda123/12
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT RJ
+http://canal.cdntv.com.br:80/amanda123/amanda123/22
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT SP
+http://canal.cdntv.com.br:80/amanda123/amanda123/23
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS47tZg32PXVCIcRv5jINgUGP2a9XV-ia693p3r=s512-c-k-c0x00ffffff-no-rj-mo",Record Interior RJ
+http://canal.cdntv.com.br:80/amanda123/amanda123/24
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVzyTsW0mwkWBTHilrc0wT53tLi3f15KbOke6cu=s512-c-k-c0x00ffffff-no-rj",TV Galega
+http://canal.cdntv.com.br:80/amanda123/amanda123/32
+#EXTINF:-1 group-title="Musicas" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s512-c-k-c0x00ffffff-no-rj",Qwest TV
+http://canal.cdntv.com.br:80/amanda123/amanda123/35
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgXwqHfXaMKq30loyBjY-Cny6Ymu-YCqhn5tLbOQ=s512-c-k-c0x00ffffff-no-rj",CNN Brasil
+http://canal.cdntv.com.br:80/amanda123/amanda123/45
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBOpoJ_2NEGAojAWhwHY0YMne2E8lioC8Kw&usqp=CAU",Cine Pipoca 03
+http://canal.cdntv.com.br:80/amanda123/amanda123/49
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Jovem_Pan_News_logo_2018_%282%29.png",Jovem Pan News
+http://canal.cdntv.com.br:80/amanda123/amanda123/52
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://play-lh.googleusercontent.com/VE4H6vRI5B1Oie62s3rA2H39Xdkmmsr6JLhYJYk6XfyDpQukyHuvWmA2zslpPm0WpoQ",Band News
+http://canal.cdntv.com.br:80/amanda123/amanda123/53
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s512-c-k-c0x00ffffff-no-rj-mo",Euro News
+http://canal.cdntv.com.br:80/amanda123/amanda123/54
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT4XWcjoYaYZronAVUGjn8ON40Bw7U9PIXu8fM=s512-c-k-c0x00ffffff-no-rj-mo",Record RJ
+http://canal.cdntv.com.br:80/amanda123/amanda123/56
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1_IFYDncBwSyCR4gMgMoozNq8rT-TSWcTWaQKhQ=s512-c-k-c0x00ffffff-no-rj-mo",Record SP
+http://canal.cdntv.com.br:80/amanda123/amanda123/57
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/televisions-home-theater/MyTimeMovieNetwork.jpg",My Time Movie
+http://canal.cdntv.com.br:80/amanda123/amanda123/62
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/u3IZ2FVzJ1PWJDgL1w5wDhUxuMDcEuL7ZfwMxkB7aVc5SHmBN2PlTO4cCiqnKjJbFRtdipPZ8w=s512-c-k-c0x00ffffff-no-rj",TV Novo Tempo
+http://canal.cdntv.com.br:80/amanda123/amanda123/64
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg",Gospel Movies
+http://canal.cdntv.com.br:80/amanda123/amanda123/66
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo",Band RJ
+http://canal.cdntv.com.br:80/amanda123/amanda123/68
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/MaVPp9mWx1wRr3EnlKftZ16KlVocDNWEGH_WBmJJ-ihruJX_76pMfRO2-Clj1fgmmEb5oN14_fg=s512-c-k-c0x00ffffff-no-rj",RIT
+http://canal.cdntv.com.br:80/amanda123/amanda123/70
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTY-d0jeEZ4XNa6xwubEaFoWyNlRzbbI-PH5exrZ54=s512-c-k-c0x00ffffff-no-rj-mo",TV Cultura
+http://canal.cdntv.com.br:80/amanda123/amanda123/79
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSL0QnwaUN4CMFJ5bNZiE3NshlWw-_0f6qXInnEbw=s512-c-k-c0x00ffffff-no-rj-mo",Band SP
+http://canal.cdntv.com.br:80/amanda123/amanda123/88
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Brasília
+http://canal.cdntv.com.br:80/amanda123/amanda123/95
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWDfuTlNOQMB1yEQeADLL_k0BA9DcC19xeKMhRtA=s512-c-k-c0x00ffffff-no-rj-mo",AgroBrasilTV
+http://canal.cdntv.com.br:80/amanda123/amanda123/97
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg",TV Brasil
+http://canal.cdntv.com.br:80/amanda123/amanda123/102
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s512-c-k-c0x00ffffff-no-rj-mo",Rede TV
+http://canal.cdntv.com.br:80/amanda123/amanda123/106
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q",Polishop
+http://canal.cdntv.com.br:80/amanda123/amanda123/107
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/8eafJoPq8P_j_Pckpxg8dwYaSlHK52HUxCKhGLNfgl7uirjI_PdZlIMLIoTjtf0hRRwK6Lgc=s512-c-k-c0x00ffffff-no-rj-mo",IMPACT Wrestling
+http://canal.cdntv.com.br:80/amanda123/amanda123/108
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/NlmXFhK3JMZqsMltQPvfjhVWcOlvgKlhrgo_3i74wiKAidhqcV272CAW6lFLFqp0HSSTCgbO=s512-c-k-c0x00ffffff-no-rj-mo",Canção Nova
+http://canal.cdntv.com.br:80/amanda123/amanda123/111
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQts0Ns_qlMlVILqyK9PTUx29YBU9TSfK6DuDTyiQ=s512-c-k-c0x00ffffff-no-rj",partypoker TV
+http://canal.cdntv.com.br:80/amanda123/amanda123/119
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.googleusercontent.com/e_t1XuAi9rmG6097ugBlvvu6tMMInR2UOmb32qxj7SDjGvDrQSGXScEBz9fHvyf6jgYttcFlEw=s512-c-k-c0x00ffffff-no-rj",PokerStars Brasil
+http://canal.cdntv.com.br:80/amanda123/amanda123/120
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Bahia
+http://canal.cdntv.com.br:80/amanda123/amanda123/130
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT Pará
+http://canal.cdntv.com.br:80/amanda123/amanda123/131
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://wercar.com.br/wp-content/uploads/shoptime-logo-1.png",Shoptime
+http://canal.cdntv.com.br:80/amanda123/amanda123/133
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT Nacional
+http://canal.cdntv.com.br:80/amanda123/amanda123/134
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT Interior SP
+http://canal.cdntv.com.br:80/amanda123/amanda123/135
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png",Retrô Cartoon Channel
+http://canal.cdntv.com.br:80/amanda123/amanda123/152
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s512-c-k-c0x00ffffff-no-rj-mo",TV Gazeta
+http://canal.cdntv.com.br:80/amanda123/amanda123/161
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTpOxDLl4gF7cW3Hezi6JMk2SkrG2yCvB_xkkchag=s512-c-k-c0x00ffffff-no-rj-mo",Rede Mundial
+http://canal.cdntv.com.br:80/amanda123/amanda123/162
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj",Tastemade Brasil
+http://canal.cdntv.com.br:80/amanda123/amanda123/168
+#EXTINF:-1 group-title="Musicas" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQo0L9O4Sr102l1898CPQDAD6szi0D09La7k0eosQ=s512-c-k-c0x00ffffff-no-rj-mo",Clubbing TV
+http://canal.cdntv.com.br:80/amanda123/amanda123/178
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/3OJ3dBiJmSngehvMZZS25O17yHIaiBOJZgcqGVDx7h-rZTvS7LLQXm6XlLppnlw-0JgoznyL=s512-c-k-c0x00ffffff-no-rj-mo",Combate Global
+http://canal.cdntv.com.br:80/amanda123/amanda123/187
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo",Band Rio Interior
+http://canal.cdntv.com.br:80/amanda123/amanda123/189
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c680591502799a354409ce23b41932f8.jpg",Web Tv Xtreme
+http://canal.cdntv.com.br:80/amanda123/amanda123/192
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/3qE9ZY_bAgBFJSGznDoaparYE1Odkipg9hg1SQeA7NauVQwoB_NglLSpDapttKHnJk-UARtx=s512-c-k-c0x00ffffff-no-rj",Demais TV
+http://canal.cdntv.com.br:80/amanda123/amanda123/195
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj",Canal Rural
+http://canal.cdntv.com.br:80/amanda123/amanda123/201
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJCMXLJC2zrp93TfE87l5TcWf6GtfI2iGX6yCedA=s512-c-k-c0x00ffffff-no-rj-mo",Red Bull TV
+http://canal.cdntv.com.br:80/amanda123/amanda123/202
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png",Rede Gospel
+http://canal.cdntv.com.br:80/amanda123/amanda123/211
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/56B_ZwZYctBJUaRaa0ZbBqfRoH0yT3ZMsJE4g6w89_DVSwGyK7S9MTNn2y8pfpEnixXP8MmOpw=s512-c-k-c0x00ffffff-no-rj-mo",TV Loading
+http://canal.cdntv.com.br:80/amanda123/amanda123/214
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Minas
+http://canal.cdntv.com.br:80/amanda123/amanda123/246
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Pernambuco
+http://canal.cdntv.com.br:80/amanda123/amanda123/247
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Nordeste
+http://canal.cdntv.com.br:80/amanda123/amanda123/248
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.jpg",Geekdot - AniTV
+http://canal.cdntv.com.br:80/amanda123/amanda123/260
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Maranhão
+http://canal.cdntv.com.br:80/amanda123/amanda123/277
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWMvbTylUicfXu2_vuyGY5z98uAI3tsW5OuPozWOw=s512-c-k-c0x00ffffff-no-rj",Rede CNT
+http://canal.cdntv.com.br:80/amanda123/amanda123/439
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX4qF3x264AAYkiTFkihKx1CHZie1ok4rmKC2Q3rg=s512-c-k-c0x00ffffff-no-rj",Fight Network
+http://canal.cdntv.com.br:80/amanda123/amanda123/440
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Rede Clube - Globo
+http://canal.cdntv.com.br:80/amanda123/amanda123/448
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",RPC Curitiba - Globo
+http://canal.cdntv.com.br:80/amanda123/amanda123/466
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT Paraná
+http://canal.cdntv.com.br:80/amanda123/amanda123/467
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTuwdVUj_19a0y3JrmFU2dZkVlJMwhpw4lCCp9l6Ks=s512-c-k-c0x00ffffff-no-rj",PlayTV
+http://canal.cdntv.com.br:80/amanda123/amanda123/471
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.googleusercontent.com/0C0F1Q6700SF9CrsIO-VkEBOd3e5MTu4kwDjBIAdQikMeu05tO7bP0Pi889j3gn1wUoP9Bij=s512-c-k-c0x00ffffff-no-rj",Power Slap
+http://canal.cdntv.com.br:80/amanda123/amanda123/479
+#EXTINF:-1 group-title="Abertos",SBT RN
+http://canal.cdntv.com.br:80/amanda123/amanda123/483
+#EXTINF:-1 group-title="Abertos",Record RN
+http://canal.cdntv.com.br:80/amanda123/amanda123/485
+#EXTINF:-1 group-title="Filmes",My Time Movies
+http://canal.cdntv.com.br:80/amanda123/amanda123/487
+#EXTINF:-1 group-title="Noticias",Record News
+http://canal.cdntv.com.br:80/amanda123/amanda123/493
+#EXTINF:-1 group-title="Abertos",RedeRecord RN - TV Tropical
+http://canal.cdntv.com.br:80/amanda123/amanda123/494
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png",SPACE HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/495
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://s2-receitas.glbimg.com/gn6vFoEAXS3pXt8wd0I5XR5vl4w=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/7/k/VzAGaGQSaCv2tJn0wyqg/logo-receitas-16-9-retangulo.jpg",Receitas Fast
+http://canal.cdntv.com.br:80/amanda123/amanda123/497
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://imaginariodigital.org.br/sites/default/files/imagens/empresas/logo-canal-brasil.png",Canal Brasil HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/498
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://plataformas.news/online/nota_4956.jpg",TNT-NOVELAS HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/496
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://s2-ug.ap4r.com/image-aigc-article/seoPic/origin/a54017008ed62defce03d47cd21535bae579c19f.png",TNT HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/499
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://e7.pngegg.com/pngimages/172/337/png-clipart-logo-nick-jr-television-channel-nicktoons-nickelodeon-victorious-television-text.png",NICK BR HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/500
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://w7.pngwing.com/pngs/537/26/png-transparent-paramount-s-paramount-channel-television-channel-film-others-television-blue-text.png",Paramount HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/501
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png",Central Comedy HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/502
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://e7.pngegg.com/pngimages/627/234/png-clipart-bb-optics-film-lab-logo-mtv-music-television-rap-miscellaneous-television.png",MTV Brasil HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/503
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png",ESPN HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/504
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png",ESPN 2 HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/505
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/506
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/ESPN5TV5Logo.png",ESPN 5 HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/507
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/508
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Logo-2016-presentee.png",National Geographic HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/509
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/02/Discovery-Channel-Logo.png",Discovery HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/510
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",Discovery H & H
+http://canal.cdntv.com.br:80/amanda123/amanda123/511
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://e7.pngegg.com/pngimages/165/148/png-clipart-discovery-turbo-television-channel-discovery-channel-logo-others-miscellaneous-television.png",Discovey Turbo HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/512
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC HD
+http://canal.cdntv.com.br:80/amanda123/amanda123/513
+#EXTINF:-1 group-title="Abertos",Canal do Boi
+http://canal.cdntv.com.br:80/amanda123/amanda123/514
