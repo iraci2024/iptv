@@ -1,175 +1,235 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
-http://canal.cdntv.com.br:80/amanda123/amanda123/480
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Rio Sul - Globo
-http://canal.cdntv.com.br:80/amanda123/amanda123/3
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo RJ
-http://canal.cdntv.com.br:80/amanda123/amanda123/10
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo SP
-http://canal.cdntv.com.br:80/amanda123/amanda123/12
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT RJ
-http://canal.cdntv.com.br:80/amanda123/amanda123/22
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT SP
-http://canal.cdntv.com.br:80/amanda123/amanda123/23
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS47tZg32PXVCIcRv5jINgUGP2a9XV-ia693p3r=s512-c-k-c0x00ffffff-no-rj-mo",Record Interior RJ
-http://canal.cdntv.com.br:80/amanda123/amanda123/24
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVzyTsW0mwkWBTHilrc0wT53tLi3f15KbOke6cu=s512-c-k-c0x00ffffff-no-rj",TV Galega
-http://canal.cdntv.com.br:80/amanda123/amanda123/32
-#EXTINF:-1 group-title="Musicas" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s512-c-k-c0x00ffffff-no-rj",Qwest TV
-http://canal.cdntv.com.br:80/amanda123/amanda123/35
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgXwqHfXaMKq30loyBjY-Cny6Ymu-YCqhn5tLbOQ=s512-c-k-c0x00ffffff-no-rj",CNN Brasil
-http://canal.cdntv.com.br:80/amanda123/amanda123/45
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBOpoJ_2NEGAojAWhwHY0YMne2E8lioC8Kw&usqp=CAU",Cine Pipoca 03
-http://canal.cdntv.com.br:80/amanda123/amanda123/49
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Jovem_Pan_News_logo_2018_%282%29.png",Jovem Pan News
-http://canal.cdntv.com.br:80/amanda123/amanda123/52
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://play-lh.googleusercontent.com/VE4H6vRI5B1Oie62s3rA2H39Xdkmmsr6JLhYJYk6XfyDpQukyHuvWmA2zslpPm0WpoQ",Band News
-http://canal.cdntv.com.br:80/amanda123/amanda123/53
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s512-c-k-c0x00ffffff-no-rj-mo",Euro News
-http://canal.cdntv.com.br:80/amanda123/amanda123/54
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT4XWcjoYaYZronAVUGjn8ON40Bw7U9PIXu8fM=s512-c-k-c0x00ffffff-no-rj-mo",Record RJ
-http://canal.cdntv.com.br:80/amanda123/amanda123/56
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1_IFYDncBwSyCR4gMgMoozNq8rT-TSWcTWaQKhQ=s512-c-k-c0x00ffffff-no-rj-mo",Record SP
-http://canal.cdntv.com.br:80/amanda123/amanda123/57
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/televisions-home-theater/MyTimeMovieNetwork.jpg",My Time Movie
-http://canal.cdntv.com.br:80/amanda123/amanda123/62
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/u3IZ2FVzJ1PWJDgL1w5wDhUxuMDcEuL7ZfwMxkB7aVc5SHmBN2PlTO4cCiqnKjJbFRtdipPZ8w=s512-c-k-c0x00ffffff-no-rj",TV Novo Tempo
-http://canal.cdntv.com.br:80/amanda123/amanda123/64
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg",Gospel Movies
-http://canal.cdntv.com.br:80/amanda123/amanda123/66
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo",Band RJ
-http://canal.cdntv.com.br:80/amanda123/amanda123/68
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/MaVPp9mWx1wRr3EnlKftZ16KlVocDNWEGH_WBmJJ-ihruJX_76pMfRO2-Clj1fgmmEb5oN14_fg=s512-c-k-c0x00ffffff-no-rj",RIT
-http://canal.cdntv.com.br:80/amanda123/amanda123/70
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTY-d0jeEZ4XNa6xwubEaFoWyNlRzbbI-PH5exrZ54=s512-c-k-c0x00ffffff-no-rj-mo",TV Cultura
-http://canal.cdntv.com.br:80/amanda123/amanda123/79
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSL0QnwaUN4CMFJ5bNZiE3NshlWw-_0f6qXInnEbw=s512-c-k-c0x00ffffff-no-rj-mo",Band SP
-http://canal.cdntv.com.br:80/amanda123/amanda123/88
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Brasília
-http://canal.cdntv.com.br:80/amanda123/amanda123/95
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWDfuTlNOQMB1yEQeADLL_k0BA9DcC19xeKMhRtA=s512-c-k-c0x00ffffff-no-rj-mo",AgroBrasilTV
-http://canal.cdntv.com.br:80/amanda123/amanda123/97
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg",TV Brasil
-http://canal.cdntv.com.br:80/amanda123/amanda123/102
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s512-c-k-c0x00ffffff-no-rj-mo",Rede TV
-http://canal.cdntv.com.br:80/amanda123/amanda123/106
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q",Polishop
-http://canal.cdntv.com.br:80/amanda123/amanda123/107
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/8eafJoPq8P_j_Pckpxg8dwYaSlHK52HUxCKhGLNfgl7uirjI_PdZlIMLIoTjtf0hRRwK6Lgc=s512-c-k-c0x00ffffff-no-rj-mo",IMPACT Wrestling
-http://canal.cdntv.com.br:80/amanda123/amanda123/108
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/NlmXFhK3JMZqsMltQPvfjhVWcOlvgKlhrgo_3i74wiKAidhqcV272CAW6lFLFqp0HSSTCgbO=s512-c-k-c0x00ffffff-no-rj-mo",Canção Nova
-http://canal.cdntv.com.br:80/amanda123/amanda123/111
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQts0Ns_qlMlVILqyK9PTUx29YBU9TSfK6DuDTyiQ=s512-c-k-c0x00ffffff-no-rj",partypoker TV
-http://canal.cdntv.com.br:80/amanda123/amanda123/119
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.googleusercontent.com/e_t1XuAi9rmG6097ugBlvvu6tMMInR2UOmb32qxj7SDjGvDrQSGXScEBz9fHvyf6jgYttcFlEw=s512-c-k-c0x00ffffff-no-rj",PokerStars Brasil
-http://canal.cdntv.com.br:80/amanda123/amanda123/120
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Bahia
-http://canal.cdntv.com.br:80/amanda123/amanda123/130
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT Pará
-http://canal.cdntv.com.br:80/amanda123/amanda123/131
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://wercar.com.br/wp-content/uploads/shoptime-logo-1.png",Shoptime
-http://canal.cdntv.com.br:80/amanda123/amanda123/133
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT Nacional
-http://canal.cdntv.com.br:80/amanda123/amanda123/134
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT Interior SP
-http://canal.cdntv.com.br:80/amanda123/amanda123/135
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png",Retrô Cartoon Channel
-http://canal.cdntv.com.br:80/amanda123/amanda123/152
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s512-c-k-c0x00ffffff-no-rj-mo",TV Gazeta
-http://canal.cdntv.com.br:80/amanda123/amanda123/161
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTpOxDLl4gF7cW3Hezi6JMk2SkrG2yCvB_xkkchag=s512-c-k-c0x00ffffff-no-rj-mo",Rede Mundial
-http://canal.cdntv.com.br:80/amanda123/amanda123/162
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj",Tastemade Brasil
-http://canal.cdntv.com.br:80/amanda123/amanda123/168
-#EXTINF:-1 group-title="Musicas" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQo0L9O4Sr102l1898CPQDAD6szi0D09La7k0eosQ=s512-c-k-c0x00ffffff-no-rj-mo",Clubbing TV
-http://canal.cdntv.com.br:80/amanda123/amanda123/178
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/3OJ3dBiJmSngehvMZZS25O17yHIaiBOJZgcqGVDx7h-rZTvS7LLQXm6XlLppnlw-0JgoznyL=s512-c-k-c0x00ffffff-no-rj-mo",Combate Global
-http://canal.cdntv.com.br:80/amanda123/amanda123/187
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo",Band Rio Interior
-http://canal.cdntv.com.br:80/amanda123/amanda123/189
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c680591502799a354409ce23b41932f8.jpg",Web Tv Xtreme
-http://canal.cdntv.com.br:80/amanda123/amanda123/192
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/3qE9ZY_bAgBFJSGznDoaparYE1Odkipg9hg1SQeA7NauVQwoB_NglLSpDapttKHnJk-UARtx=s512-c-k-c0x00ffffff-no-rj",Demais TV
-http://canal.cdntv.com.br:80/amanda123/amanda123/195
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj",Canal Rural
-http://canal.cdntv.com.br:80/amanda123/amanda123/201
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJCMXLJC2zrp93TfE87l5TcWf6GtfI2iGX6yCedA=s512-c-k-c0x00ffffff-no-rj-mo",Red Bull TV
-http://canal.cdntv.com.br:80/amanda123/amanda123/202
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png",Rede Gospel
-http://canal.cdntv.com.br:80/amanda123/amanda123/211
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/56B_ZwZYctBJUaRaa0ZbBqfRoH0yT3ZMsJE4g6w89_DVSwGyK7S9MTNn2y8pfpEnixXP8MmOpw=s512-c-k-c0x00ffffff-no-rj-mo",TV Loading
-http://canal.cdntv.com.br:80/amanda123/amanda123/214
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Minas
-http://canal.cdntv.com.br:80/amanda123/amanda123/246
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Pernambuco
-http://canal.cdntv.com.br:80/amanda123/amanda123/247
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Nordeste
-http://canal.cdntv.com.br:80/amanda123/amanda123/248
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.jpg",Geekdot - AniTV
-http://canal.cdntv.com.br:80/amanda123/amanda123/260
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo Maranhão
-http://canal.cdntv.com.br:80/amanda123/amanda123/277
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWMvbTylUicfXu2_vuyGY5z98uAI3tsW5OuPozWOw=s512-c-k-c0x00ffffff-no-rj",Rede CNT
-http://canal.cdntv.com.br:80/amanda123/amanda123/439
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX4qF3x264AAYkiTFkihKx1CHZie1ok4rmKC2Q3rg=s512-c-k-c0x00ffffff-no-rj",Fight Network
-http://canal.cdntv.com.br:80/amanda123/amanda123/440
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Rede Clube - Globo
-http://canal.cdntv.com.br:80/amanda123/amanda123/448
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",RPC Curitiba - Globo
-http://canal.cdntv.com.br:80/amanda123/amanda123/466
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo",SBT Paraná
-http://canal.cdntv.com.br:80/amanda123/amanda123/467
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTuwdVUj_19a0y3JrmFU2dZkVlJMwhpw4lCCp9l6Ks=s512-c-k-c0x00ffffff-no-rj",PlayTV
-http://canal.cdntv.com.br:80/amanda123/amanda123/471
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.googleusercontent.com/0C0F1Q6700SF9CrsIO-VkEBOd3e5MTu4kwDjBIAdQikMeu05tO7bP0Pi889j3gn1wUoP9Bij=s512-c-k-c0x00ffffff-no-rj",Power Slap
-http://canal.cdntv.com.br:80/amanda123/amanda123/479
-#EXTINF:-1 group-title="Abertos",SBT RN
-http://canal.cdntv.com.br:80/amanda123/amanda123/483
-#EXTINF:-1 group-title="Abertos",Record RN
-http://canal.cdntv.com.br:80/amanda123/amanda123/485
-#EXTINF:-1 group-title="Filmes",My Time Movies
-http://canal.cdntv.com.br:80/amanda123/amanda123/487
-#EXTINF:-1 group-title="Noticias",Record News
-http://canal.cdntv.com.br:80/amanda123/amanda123/493
-#EXTINF:-1 group-title="Abertos",RedeRecord RN - TV Tropical
-http://canal.cdntv.com.br:80/amanda123/amanda123/494
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png",SPACE HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/495
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://s2-receitas.glbimg.com/gn6vFoEAXS3pXt8wd0I5XR5vl4w=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/7/k/VzAGaGQSaCv2tJn0wyqg/logo-receitas-16-9-retangulo.jpg",Receitas Fast
-http://canal.cdntv.com.br:80/amanda123/amanda123/497
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://imaginariodigital.org.br/sites/default/files/imagens/empresas/logo-canal-brasil.png",Canal Brasil HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/498
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://plataformas.news/online/nota_4956.jpg",TNT-NOVELAS HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/496
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://s2-ug.ap4r.com/image-aigc-article/seoPic/origin/a54017008ed62defce03d47cd21535bae579c19f.png",TNT HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/499
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://e7.pngegg.com/pngimages/172/337/png-clipart-logo-nick-jr-television-channel-nicktoons-nickelodeon-victorious-television-text.png",NICK BR HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/500
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://w7.pngwing.com/pngs/537/26/png-transparent-paramount-s-paramount-channel-television-channel-film-others-television-blue-text.png",Paramount HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/501
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png",Central Comedy HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/502
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://e7.pngegg.com/pngimages/627/234/png-clipart-bb-optics-film-lab-logo-mtv-music-television-rap-miscellaneous-television.png",MTV Brasil HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/503
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png",ESPN HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/504
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png",ESPN 2 HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/505
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/506
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/ESPN5TV5Logo.png",ESPN 5 HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/507
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/508
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Logo-2016-presentee.png",National Geographic HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/509
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/02/Discovery-Channel-Logo.png",Discovery HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/510
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",Discovery H & H
-http://canal.cdntv.com.br:80/amanda123/amanda123/511
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://e7.pngegg.com/pngimages/165/148/png-clipart-discovery-turbo-television-channel-discovery-channel-logo-others-miscellaneous-television.png",Discovey Turbo HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/512
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC HD
-http://canal.cdntv.com.br:80/amanda123/amanda123/513
-#EXTINF:-1 group-title="Abertos",Canal do Boi
-http://canal.cdntv.com.br:80/amanda123/amanda123/514
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png",BRA: A&E ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5093
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",BRA: ANIMAL PLANET ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5094
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",BRA: ARTE 1 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5095
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",BRA: AXN ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5096
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png",BRA: BAND ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5097
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png",BRA: BAND NEWS ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5098
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png",BRA: BAND SPORTS ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5099
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1280px-Logo_of_Bis.svg.png",BRA: BIS ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5100
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cartoonito.svg",BRA: CARTOONITO ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5101
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png",BRA: TV BRASIL ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5102
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://comteco.com.bo/img/upload/canales/cartoon-network.png",BRA: CARTOON NETWORK ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5104
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Cinemax_logo.png",BRA: CINEMAX ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5105
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1200px-Canal-combate-logo.png",BRA: COMBATE ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5106
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png",BRA: COMEDY CENTRAL ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5107
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1280px-Logo_of_Curta%21.svg.png",BRA: CURTA! ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5108
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-4-1.png",BRA: DISCOVERY CH. ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5109
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Discovery_Civilization_Channel_logo.svg/1200px-Discovery_Civilization_Channel_logo.svg.png",BRA: DISCOVERY CIVILIZATION ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5110
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",BRA: DISCOVERY H&H ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5111
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",BRA: DISCOVERY ID ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5112
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png",BRA: DISCOVERY KIDS ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5113
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png",BRA: DISCOVERY SCIENCE ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5114
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png",BRA: DISCOVERY THEATER ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5115
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",BRA: DISCOVERY TURBO ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5116
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",BRA: DISCOVERY WORLD ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5117
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png",BRA: DISNEY CHANNEL ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5118
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://i.pinimg.com/originals/59/17/c0/5917c01f3538e0351ca6f6c3bceb82e8.png",BRA: DISNEY JUNIOR ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5119
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png",BRA: DISNEY CHANNEL ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5120
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png",BRA: E! ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5121
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png",BRA: ESPN BRASIL ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5122
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://1.bp.blogspot.com/-1vS2Hz_HuVM/VvbpQvS6kkI/AAAAAAAApsQ/0mCdM2gNjOQi1rQjkHZpZyFcbW_iJS2YgCKgB/w1200-h630-p-k-no-nu/espn-extra.png",BRA: ESPN EXTRA ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5123
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png",BRA: ESPN ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5124
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png",BRA: FISH TV ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5125
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",BRA: STAR CHANNEL ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5126
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1280px-Fox_life_logo.svg.png",BRA: FOX LIFE ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5127
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023532231/FOX_Premium.png",BRA: FOX PREMIUM 1 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5128
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://www.pngkit.com/png/full/220-2201778_foxpremium2-fox-premium-series-logo.png",BRA: FOX PREMIUM 2 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5129
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",BRA: FOX SPORTS 2 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5130
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png",BRA: FUTURA ʙʀᴀsɪʟ Uᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5131
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png",BRA: FX ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5132
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/GloboNews_logo_%28black%29.svg/1280px-GloboNews_logo_%28black%29.svg.png",BRA: GLOBO NEWS ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5133
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://numerodosfamosos.net/wp-content/uploads/2018/01/N%C3%BAmero-de-WhatsApp-da-TV-Globo-RJ.png",BRA: GLOBO RIO ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5134
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://pbs.twimg.com/profile_images/284484236/Globo_S_o_Paulo_twitter_400x400.png",BRA: GLOBO SP ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5135
+#EXTINF:-1 ,#2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5136
+#EXTINF:-1 ,#2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5137
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",BRA: HBO 2 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5138
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",BRA: HBO FAMILY ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5139
+#EXTINF:-1 ,#
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5140
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",BRA: HBO PLUS ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5141
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",BRA: HBO SIGNATURE ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5142
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png",BRA: HISTORY 2 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5143
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1024px-History_HD_Logo.svg.png",BRA: HISTORY ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5144
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png",BRA: LIFETIME ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5145
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%2Bglobosat_azul_2d.png/640px-%2Bglobosat_azul_2d.png",BRA: MAIS GLOBOSAT ʙʀᴀsɪʟ Uᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5146
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Max_HD.png",BRA: MAX ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5147
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/640px-Max_Prime_2012_logo.svg.png",BRA: MAX PRIME ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5148
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://comteco.com.bo/img/upload/canales/hbo-max-up.png",BRA: PARAMOUNT ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5149
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",BRA: MEGAPIX ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5150
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1472px-MTV_Logo_2010.svg.png",BRA: MTV ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5151
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png",BRA: MULTISHOW ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5152
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png",BRA: NAT GEO KIDS ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5153
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",BRA: NAT GEO WILD ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5154
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png",BRA: NATIONAL GEOGRAPHIC ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5155
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://es.logodownload.org/wp-content/uploads/2018/11/nick-jr-logo1.png",BRA: NICK JR ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5156
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png",BRA: NICKELODEON ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5157
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png",BRA: OFF ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5158
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png",BRA: PARAMOUNT ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5159
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png",BRA: VIVA ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5160
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png",BRA: PREMIERE 1 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5161
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://iconape.com/wp-content/png_logo_vector/premiere-3-2008-logo.png",BRA: PREMIERE 3 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5163
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://iconape.com/wp-content/files/qe/279774/png/279774.png",BRA: PREMIERE 4 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5164
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png",BRA: PREMIERE 5 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5165
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png",BRA: PREMIERE 6 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5166
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png",BRA: PREMIERE 7 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5167
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png",BRA: PREMIERE 8 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5168
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",BRA: PREMIERE CLUBE ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5169
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://www.nicepng.com/png/full/193-1939643_prime-box-brazil-music-box-brasil.png",BRA: PRIME BOX ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5170
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",BRA: RECORD ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5171
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/record-news-png-8.png",BRA: RECORD NEWS ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5172
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fe/Rede_Brasil_Par%C3%A1_Logo.png",BRA: REDE BRASIL ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5173
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png",BRA: REDE TV ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5174
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/667px-Rede_Vida_logo.png",BRA: REDE VIDA ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5175
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/1200px-SBT_logo.svg.png",BRA: SBT ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5176
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sony_HD.png",BRA: SONY ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5177
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png",BRA: SPACE ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5178
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png",BRA: SPORTV 2 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5179
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/sportv-logo-png-6.png",BRA: SPORTV 3 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5180
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",BRA: STUDIO UNIVERSAL ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5181
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://assets.stickpng.com/images/584fc8d66a5ae41a83ddee7f.png",BRA: SYFY ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5182
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png",BRA: TBS HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5183
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",BRA: Ra Tim Bum ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5184
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png",BRA: TELECINE ACTION HD - MR
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5185
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png",BRA: TELECINE CULT ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5186
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",BRA: TELECINE FUN ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5187
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/1024px-Telecine_Pipoca.png",BRA: TELECINE PIPOCA HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5188
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png",BRA: TELECINE PREMIUM ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5189
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png",BRA: TELECINE TOUCH HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5190
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",BRA: TLC ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5191
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",BRA: TNT HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5192
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",BRA: TNT SERIES ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5193
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",BRA: TOONCAST HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5194
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png",BRA: TRAVEL CHANNEL HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5195
+#EXTINF:-1 ,# ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5196
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png",BRA: TV CÂMARA HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5197
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",BRA: TV CULTURA HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5198
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png",BRA: TV ESCOLA HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5199
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",BRA: TV GAZETA HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5200
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",BRA: UNIVERSAL CHANNEL HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5201
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",BRA: VH1 ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5202
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Logo_Viva_Canal_33.png",BRA: VIVA HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5203
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",BRA: WARNER HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5204
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png",BRA: WOOHOO ʙʀᴀsɪʟ ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5205
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="http://1.84423.xyz:8000/images/0a4dd4cec8367c4a995ea98d113bb14a.jpg",BRA: GLOBO 4K
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/161524
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="http://1.84423.xyz:8000/images/0a4dd4cec8367c4a995ea98d113bb14a.jpg",BRA: GLOBO RJ HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/161559
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="http://1.84423.xyz:8000/images/921df56002ee5dc960debedc8ae06072.png",BRA: RECORD SP HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/161605
+#EXTINF:-1 group-title="Brasil: Canais Exclusivos⭐️" tvg-logo="http://1.84423.xyz:8000/images/dd195b30217e8ec0178e7df6bc874a54.png",BRA: SBT 4K
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/161611
+#EXTINF:-1 group-title="BRASIL" tvg-logo="http://www.vod-logo.net/photos/63db0edfc4d9f376503d2f10349254de.png",BR | Band SP HD
+http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/236471
+#EXTINF:-1 group-title="BRASIL" tvg-logo="http://www.vod-logo.net/photos/2ab115291c98dcccd76e469cb8221f69.png",BR | Combate HD
+http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/236507
