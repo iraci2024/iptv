@@ -231,5 +231,23 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/161605
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/161611
 #EXTINF:-1 group-title="BRASIL" tvg-logo="http://www.vod-logo.net/photos/63db0edfc4d9f376503d2f10349254de.png",BR | Band SP HD
 http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/236471
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/bef3c741b89f5498e966018720c5bc59.png",BR: Globo RJ
+http://xtv.ooo:8080/874246786/743567899/348694
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/53384e83f9aef3e19df200f9fe09320c.png",BR: Globo RBS RS TV
+http://xtv.ooo:8080/874246786/743567899/348690
 #EXTINF:-1 group-title="BRASIL" tvg-logo="http://www.vod-logo.net/photos/2ab115291c98dcccd76e469cb8221f69.png",BR | Combate HD
 http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/236507
+#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png",BR: Premiere FC 1
+http://xtv.ooo:8080/874246786/743567899/348638
+#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e89f233ee5c27419e427a9a1d7a3ac3.png",BR: Premiere FC 2
+http://xtv.ooo:8080/874246786/743567899/348639
+#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png",BR: Premiere FC 3
+http://xtv.ooo:8080/874246786/743567899/348640
+#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png",BR: Premiere FC 4
+http://xtv.ooo:8080/874246786/743567899/348641
+#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png",BR: Premiere FC 5
+http://xtv.ooo:8080/874246786/743567899/348642
+#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png",BR: Premiere FC 6
+http://xtv.ooo:8080/874246786/743567899/348643
+#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/43c658602510deaefdbb2c0191238330.jpg",BR: Premiere FC 7
+http://xtv.ooo:8080/874246786/743567899/348644
